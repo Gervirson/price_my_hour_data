@@ -1,0 +1,29 @@
+name: Monthly Market Data Update
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Runs at midnight on the 1st of every month
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: dart-lang/setup-dart@v1 # Sets up Dart on the server
+      
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Run Update Script
+        run: dart bin/update_rates.dart
+        env:
+          APY_TOKEN: ${{ secrets.APY_TOKEN }} # Uses the secret token you'll add
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add market_rates.json
+          git commit -m "Auto-update market rates"
+          git push
