@@ -1,0 +1,75 @@
+{
+  "last_updated": "2026-04-12",
+  "roles": [
+    {
+      "name": "Full Stack Developer",
+      "category": "Engineering",
+      "country": "Global",
+      "description": "Expert in both Frontend and Backend development.",
+      "monthly_data": [50.0, 51.5, 52.0, 53.5, 55.0, 56.5, 58.0, 59.5, 61.0, 62.5, 64.0, 65.0]
+    },
+    {
+      "name": "Backend Developer",
+      "category": "Engineering",
+      "country": "Global",
+      "description": "Server-side logic and database architecture specialist.",
+      "monthly_data": [48.0, 49.0, 50.5, 51.0, 52.5, 54.0, 55.5, 57.0, 58.0, 59.5, 61.0, 62.0]
+    },
+    {
+      "name": "Frontend Developer",
+      "category": "Engineering",
+      "country": "Global",
+      "description": "User interface and client-side logic specialist.",
+      "monthly_data": [45.0, 46.5, 47.0, 48.5, 50.0, 51.0, 52.5, 54.0, 55.0, 56.5, 58.0, 59.0]
+    },
+    {
+      "name": "Mobile Developer",
+      "category": "Engineering",
+      "country": "Global",
+      "description": "iOS and Android application development expert.",
+      "monthly_data": [47.0, 48.5, 50.0, 51.5, 53.0, 54.5, 56.0, 57.5, 59.0, 60.5, 62.0, 63.5]
+    },
+    {
+      "name": "Graphic Designer",
+      "category": "Design",
+      "country": "Global",
+      "description": "Visual communication and branding specialist.",
+      "monthly_data": [30.0, 31.0, 31.5, 32.5, 33.0, 34.0, 35.5, 36.0, 37.5, 38.0, 39.5, 40.0]
+    },
+    {
+      "name": "UI/UX Designer",
+      "category": "Design",
+      "country": "Global",
+      "description": "User experience research and interface design expert.",
+      "monthly_data": [40.0, 41.5, 42.0, 43.5, 45.0, 46.5, 48.0, 49.5, 51.0, 52.5, 54.0, 55.0]
+    },
+    {
+      "name": "Content Writer",
+      "category": "Writing",
+      "country": "Global",
+      "description": "Professional copy and content creation specialist.",
+      "monthly_data": [25.0, 26.0, 26.5, 27.5, 28.0, 29.0, 30.0, 31.5, 32.0, 33.5, 34.0, 35.0]
+    },
+    {
+      "name": "SEO Specialist",
+      "category": "Marketing",
+      "country": "Global",
+      "description": "Search engine optimization and digital growth expert.",
+      "monthly_data": [35.0, 36.5, 37.0, 38.5, 40.0, 41.0, 42.5, 44.0, 45.0, 46.5, 48.0, 49.0]
+    },
+    {
+      "name": "Project Manager",
+      "category": "Management",
+      "country": "Global",
+      "description": "Planning, execution, and closing of projects.",
+      "monthly_data": [42.0, 43.5, 45.0, 46.0, 47.5, 48.5, 50.0, 51.5, 53.0, 54.5, 56.0, 57.5]
+    },
+    {
+      "name": "Data Scientist",
+      "category": "Data",
+      "country": "Global",
+      "description": "Advanced analytics and machine learning specialist.",
+      "monthly_data": [55.0, 57.0, 59.0, 61.0, 63.0, 65.0, 67.0, 69.0, 71.0, 73.0, 75.0, 78.0]
+    }
+  ]
+}
