@@ -1,75 +1,145 @@
 {
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-04-14",
   "roles": [
+    {
+      "name": "Cybersecurity Specialist",
+      "category": "IT Security",
+      "country": "Global",
+      "description": "Protects systems and networks from cyber threats.",
+      "monthly_data": [33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5]
+    },
+    {
+      "name": "Cloud Engineer",
+      "category": "Engineering",
+      "country": "Global",
+      "description": "Designs and manages cloud infrastructure and services.",
+      "monthly_data": [34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5]
+    },
+    {
+      "name": "Digital Marketing Specialist",
+      "category": "Marketing",
+      "country": "Global",
+      "description": "Executes online campaigns to drive brand growth.",
+      "monthly_data": [21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5, 26.0, 26.5]
+    },
+    {
+      "name": "Financial Analyst",
+      "category": "Finance",
+      "country": "Global",
+      "description": "Analyzes financial data to guide business decisions.",
+      "monthly_data": [28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5]
+    },
+    {
+      "name": "Accountant",
+      "category": "Finance",
+      "country": "Global",
+      "description": "Manages financial records and ensures compliance.",
+      "monthly_data": [24.0, 24.5, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5]
+    },
+    {
+      "name": "HR Manager",
+      "category": "Management",
+      "country": "Global",
+      "description": "Oversees recruitment, employee relations, and HR policies.",
+      "monthly_data": [26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5]
+    },
+    {
+      "name": "Business Analyst",
+      "category": "Business",
+      "country": "Global",
+      "description": "Identifies business needs and proposes solutions.",
+      "monthly_data": [27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5]
+    },
+    {
+      "name": "Healthcare Data Analyst",
+      "category": "Healthcare",
+      "country": "Global",
+      "description": "Analyzes medical data to improve patient outcomes.",
+      "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
+    },
+    {
+      "name": "Teacher (Online Education)",
+      "category": "Education",
+      "country": "Global",
+      "description": "Provides instruction and learning support via online platforms.",
+      "monthly_data": [18.0, 18.5, 19.0, 19.5, 20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5]
+    },
+    {
+      "name": "Legal Consultant",
+      "category": "Legal",
+      "country": "Global",
+      "description": "Advises clients on legal matters and compliance.",
+      "monthly_data": [36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5, 40.0, 40.5, 41.0, 41.5]
+    },
     {
       "name": "Full Stack Developer",
       "category": "Engineering",
       "country": "Global",
       "description": "Expert in both Frontend and Backend development.",
-      "monthly_data": [50.0, 51.5, 52.0, 53.5, 55.0, 56.5, 58.0, 59.5, 61.0, 62.5, 64.0, 65.0]
+      "monthly_data": [32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5]
     },
     {
       "name": "Backend Developer",
       "category": "Engineering",
       "country": "Global",
       "description": "Server-side logic and database architecture specialist.",
-      "monthly_data": [48.0, 49.0, 50.5, 51.0, 52.5, 54.0, 55.5, 57.0, 58.0, 59.5, 61.0, 62.0]
+      "monthly_data": [30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5]
     },
     {
       "name": "Frontend Developer",
       "category": "Engineering",
       "country": "Global",
       "description": "User interface and client-side logic specialist.",
-      "monthly_data": [45.0, 46.5, 47.0, 48.5, 50.0, 51.0, 52.5, 54.0, 55.0, 56.5, 58.0, 59.0]
+      "monthly_data": [28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5]
     },
     {
       "name": "Mobile Developer",
       "category": "Engineering",
       "country": "Global",
       "description": "iOS and Android application development expert.",
-      "monthly_data": [47.0, 48.5, 50.0, 51.5, 53.0, 54.5, 56.0, 57.5, 59.0, 60.5, 62.0, 63.5]
+      "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
     },
     {
       "name": "Graphic Designer",
       "category": "Design",
       "country": "Global",
       "description": "Visual communication and branding specialist.",
-      "monthly_data": [30.0, 31.0, 31.5, 32.5, 33.0, 34.0, 35.5, 36.0, 37.5, 38.0, 39.5, 40.0]
+      "monthly_data": [20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5]
     },
     {
       "name": "UI/UX Designer",
       "category": "Design",
       "country": "Global",
       "description": "User experience research and interface design expert.",
-      "monthly_data": [40.0, 41.5, 42.0, 43.5, 45.0, 46.5, 48.0, 49.5, 51.0, 52.5, 54.0, 55.0]
+      "monthly_data": [25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5]
     },
     {
       "name": "Content Writer",
       "category": "Writing",
       "country": "Global",
       "description": "Professional copy and content creation specialist.",
-      "monthly_data": [25.0, 26.0, 26.5, 27.5, 28.0, 29.0, 30.0, 31.5, 32.0, 33.5, 34.0, 35.0]
+      "monthly_data": [18.0, 18.5, 19.0, 19.5, 20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5]
     },
     {
       "name": "SEO Specialist",
       "category": "Marketing",
       "country": "Global",
       "description": "Search engine optimization and digital growth expert.",
-      "monthly_data": [35.0, 36.5, 37.0, 38.5, 40.0, 41.0, 42.5, 44.0, 45.0, 46.5, 48.0, 49.0]
+      "monthly_data": [22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5]
     },
     {
       "name": "Project Manager",
       "category": "Management",
       "country": "Global",
       "description": "Planning, execution, and closing of projects.",
-      "monthly_data": [42.0, 43.5, 45.0, 46.0, 47.5, 48.5, 50.0, 51.5, 53.0, 54.5, 56.0, 57.5]
+      "monthly_data": [27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5]
     },
     {
       "name": "Data Scientist",
       "category": "Data",
       "country": "Global",
       "description": "Advanced analytics and machine learning specialist.",
-      "monthly_data": [55.0, 57.0, 59.0, 61.0, 63.0, 65.0, 67.0, 69.0, 71.0, 73.0, 75.0, 78.0]
+      "monthly_data": [35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5, 40.0, 40.5]
     }
   ]
 }
