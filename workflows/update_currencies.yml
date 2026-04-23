@@ -1,0 +1,48 @@
+name: Update Currency Rates
+
+on:
+  schedule:
+    # Corre todos los días a la media noche (UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  update-rates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch API and Save JSON
+        env:
+          # Esta variable usa el secreto que crearás en GitHub
+          API_KEY: ${{ secrets.EXCHANGERATE_API_KEY }}
+        run: |
+          # Crear la carpeta de destino si no existe
+          mkdir -p assets/data
+          
+          # Hacer la llamada a la API usando la nueva llave
+          curl -s "https://v6.exchangerate-api.com/v6/$API_KEY/latest/USD" > assets/data/currencies.json
+          
+          # Verificar que el JSON sea válido y contenga las tasas
+          if grep -q "conversion_rates" assets/data/currencies.json; then
+            echo "✅ JSON descargado exitosamente."
+          else
+            echo "❌ Error descargando JSON:"
+            cat assets/data/currencies.json
+            exit 1
+          fi
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          git add assets/data/currencies.json
+          
+          # Si no hay cambios (las tasas son exactamente iguales), no hace commit
+          git commit -m "🤖 Update daily currency rates (Offline JSON)" || echo "No changes to commit"
+          git push
+
