@@ -1,1 +1,8 @@
-
+{
+  "last_updated": "2026-04-22",
+  "countries": [
+    { "key": "Spain", "name": "España", "tax": 15.0, "currency": "EUR" },
+    { "key": "United States", "name": "Estados Unidos", "tax": 25.0, "currency": "USD" },
+    { "key": "Dominican Republic", "name": "República Dominicana", "tax": 15.0, "currency": "DOP" }
+  ]
+}
