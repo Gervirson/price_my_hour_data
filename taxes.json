@@ -1,8 +1,15 @@
 {
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-23",
   "countries": [
-    { "key": "Spain", "name": "España", "tax": 15.0, "currency": "EUR" },
-    { "key": "United States", "name": "Estados Unidos", "tax": 25.0, "currency": "USD" },
-    { "key": "Dominican Republic", "name": "República Dominicana", "tax": 15.0, "currency": "DOP" }
+    { "key": "Argentina", "name": "Argentina", "tax": 35.0, "currency": "ARS" },
+    { "key": "Bolivia", "name": "Bolivia", "tax": 13.0, "currency": "BOB" },
+    { "key": "Chile", "name": "Chile", "tax": 19.0, "currency": "CLP" },
+    { "key": "Colombia", "name": "Colombia", "tax": 19.0, "currency": "COP" },
+    { "key": "Costa Rica", "name": "Costa Rica", "tax": 13.0, "currency": "CRC" },
+    { "key": "Ecuador", "name": "Ecuador", "tax": 15.0, "currency": "USD" },
+    { "key": "Guatemala", "name": "Guatemala", "tax": 12.0, "currency": "GTQ" },
+    { "key": "Mexico", "name": "México", "tax": 16.0, "currency": "MXN" },
+    { "key": "Peru", "name": "Perú", "tax": 18.0, "currency": "PEN" },
+    { "key": "Uruguay", "name": "Uruguay", "tax": 22.0, "currency": "UYU" }
   ]
 }
