@@ -8,7 +8,17 @@
     { "key": "Costa Rica", "name": "Costa Rica", "tax": 13.0, "currency": "CRC" },
     { "key": "Ecuador", "name": "Ecuador", "tax": 15.0, "currency": "USD" },
     { "key": "Guatemala", "name": "Guatemala", "tax": 12.0, "currency": "GTQ" },
-    { "key": "Mexico", "name": "México", "tax": 16.0, "currency": "MXN" },
+    {
+  "key": "Mexico",
+  "name": "México",
+  "tax": 16.0, 
+  "income_tax": 10.0,
+  "pension_tax": 2.0,
+  "health_tax": 1.0,
+  "vat_tax": 3.0,
+  "currency": "MXN"
+}
+,
     { "key": "Peru", "name": "Perú", "tax": 18.0, "currency": "PEN" },
     { "key": "Uruguay", "name": "Uruguay", "tax": 22.0, "currency": "UYU" }
   ]
