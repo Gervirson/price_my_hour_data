@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-04-23",
+  "last_updated": "2026-04-24",
   "countries": [
-
-    {
-  "key": "Mexico",
-  "name": "México",
-  "tax": 16.0, 
-  "income_tax": 10.0,
-  "pension_tax": 2.0,
-  "health_tax": 1.0,
-  "vat_tax": 3.0,
-  "currency": "MXN"
-}
-
+    { "key": "Argentina", "name": "Argentina", "tax": 21.0, "income_tax": 35.0, "pension_tax": 11.0, "health_tax": 6.0, "vat_tax": 21.0, "currency": "ARS" },
+    { "key": "Bolivia", "name": "Bolivia", "tax": 13.0, "income_tax": 13.0, "pension_tax": 12.7, "health_tax": 10.0, "vat_tax": 13.0, "currency": "BOB" },
+    { "key": "Brazil", "name": "Brasil", "tax": 17.0, "income_tax": 27.5, "pension_tax": 11.0, "health_tax": 0.0, "vat_tax": 17.0, "currency": "BRL" },
+    { "key": "Chile", "name": "Chile", "tax": 19.0, "income_tax": 10.0, "pension_tax": 10.0, "health_tax": 7.0, "vat_tax": 19.0, "currency": "CLP" },
+    { "key": "Colombia", "name": "Colombia", "tax": 19.0, "income_tax": 10.0, "pension_tax": 16.0, "health_tax": 12.5, "vat_tax": 19.0, "currency": "COP" },
+    { "key": "Costa Rica", "name": "Costa Rica", "tax": 13.0, "income_tax": 15.0, "pension_tax": 10.5, "health_tax": 9.2, "vat_tax": 13.0, "currency": "CRC" },
+    { "key": "Cuba", "name": "Cuba", "tax": 10.0, "income_tax": 15.0, "pension_tax": 5.0, "health_tax": 0.0, "vat_tax": 0.0, "currency": "CUP" },
+    { "key": "Dominican Republic", "name": "Rep. Dominicana", "tax": 18.0, "income_tax": 10.0, "pension_tax": 2.87, "health_tax": 3.04, "vat_tax": 18.0, "currency": "DOP" },
+    { "key": "Ecuador", "name": "Ecuador", "tax": 15.0, "income_tax": 8.0, "pension_tax": 9.45, "health_tax": 0.0, "vat_tax": 15.0, "currency": "USD" },
+    { "key": "El Salvador", "name": "El Salvador", "tax": 13.0, "income_tax": 10.0, "pension_tax": 7.25, "health_tax": 3.0, "vat_tax": 13.0, "currency": "USD" },
+    { "key": "Guatemala", "name": "Guatemala", "tax": 12.0, "income_tax": 5.0, "pension_tax": 4.83, "health_tax": 0.0, "vat_tax": 12.0, "currency": "GTQ" },
+    { "key": "Honduras", "name": "Honduras", "tax": 15.0, "income_tax": 15.0, "pension_tax": 4.0, "health_tax": 2.5, "vat_tax": 15.0, "currency": "HNL" },
+    { "key": "Mexico", "name": "México", "tax": 16.0, "income_tax": 20.0, "pension_tax": 6.27, "health_tax": 1.12, "vat_tax": 16.0, "currency": "MXN" },
+    { "key": "Nicaragua", "name": "Nicaragua", "tax": 15.0, "income_tax": 15.0, "pension_tax": 7.0, "health_tax": 0.0, "vat_tax": 15.0, "currency": "NIO" },
+    { "key": "Panama", "name": "Panamá", "tax": 7.0, "income_tax": 15.0, "pension_tax": 9.25, "health_tax": 0.5, "vat_tax": 7.0, "currency": "USD" },
+    { "key": "Paraguay", "name": "Paraguay", "tax": 10.0, "income_tax": 10.0, "pension_tax": 9.5, "health_tax": 0.0, "vat_tax": 10.0, "currency": "PYG" },
+    { "key": "Peru", "name": "Perú", "tax": 18.0, "income_tax": 8.0, "pension_tax": 10.0, "health_tax": 9.0, "vat_tax": 18.0, "currency": "PEN" },
+    { "key": "Puerto Rico", "name": "Puerto Rico", "tax": 11.5, "income_tax": 7.0, "pension_tax": 6.2, "health_tax": 1.45, "vat_tax": 11.5, "currency": "USD" },
+    { "key": "Uruguay", "name": "Uruguay", "tax": 22.0, "income_tax": 15.0, "pension_tax": 15.0, "health_tax": 4.5, "vat_tax": 22.0, "currency": "UYU" },
+    { "key": "Venezuela", "name": "Venezuela", "tax": 16.0, "income_tax": 15.0, "pension_tax": 4.0, "health_tax": 0.0, "vat_tax": 16.0, "currency": "VES" },
+    { "key": "Spain", "name": "España", "tax": 21.0, "income_tax": 19.0, "pension_tax": 6.35, "health_tax": 0.0, "vat_tax": 21.0, "currency": "EUR" },
+    { "key": "USA", "name": "Estados Unidos", "tax": 7.0, "income_tax": 15.0, "pension_tax": 6.2, "health_tax": 1.45, "vat_tax": 7.0, "currency": "USD" },
+    { "key": "Canada", "name": "Canadá", "tax": 13.0, "income_tax": 15.0, "pension_tax": 5.95, "health_tax": 0.0, "vat_tax": 13.0, "currency": "CAD" },
+    { "key": "Portugal", "name": "Portugal", "tax": 23.0, "income_tax": 14.5, "pension_tax": 11.0, "health_tax": 0.0, "vat_tax": 23.0, "currency": "EUR" },
+    { "key": "France", "name": "Francia", "tax": 20.0, "income_tax": 11.0, "pension_tax": 6.9, "health_tax": 0.0, "vat_tax": 20.0, "currency": "EUR" },
+    { "key": "Germany", "name": "Alemania", "tax": 19.0, "income_tax": 14.0, "pension_tax": 9.3, "health_tax": 7.3, "vat_tax": 19.0, "currency": "EUR" },
+    { "key": "Italy", "name": "Italia", "tax": 22.0, "income_tax": 23.0, "pension_tax": 9.19, "health_tax": 0.0, "vat_tax": 22.0, "currency": "EUR" },
+    { "key": "UK", "name": "Reino Unido", "tax": 20.0, "income_tax": 20.0, "pension_tax": 12.0, "health_tax": 0.0, "vat_tax": 20.0, "currency": "GBP" },
+    { "key": "Japan", "name": "Japón", "tax": 10.0, "income_tax": 10.0, "pension_tax": 9.15, "health_tax": 5.0, "vat_tax": 10.0, "currency": "JPY" },
+    { "key": "South Korea", "name": "Corea del Sur", "tax": 10.0, "income_tax": 6.0, "pension_tax": 4.5, "health_tax": 3.43, "vat_tax": 10.0, "currency": "KRW" }
   ]
 }
