@@ -11,7 +11,7 @@
     {
   "key": "Mexico",
   "name": "México",
-  "tax": 16.0, 
+  "tax": 24.0, 
   "income_tax": 10.0,
   "pension_tax": 2.0,
   "health_tax": 1.0,
