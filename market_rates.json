@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14",
+  "last_updated": "2026-04-23",
   "roles": [
     {
       "name": "UX Researcher",
@@ -9,137 +9,11 @@
       "monthly_data": [26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5]
     },
     {
-      "name": "Data Privacy Officer",
-      "category": "Legal",
-      "country": "Global",
-      "description": "Ensures compliance with data protection regulations.",
-      "monthly_data": [32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5]
-    },
-    {
-      "name": "Mechanical Engineer",
-      "category": "Engineering",
-      "country": "Global",
-      "description": "Designs and develops mechanical systems and devices.",
-      "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
-    },
-    {
-      "name": "Journalist",
-      "category": "Writing",
-      "country": "Global",
-      "description": "Reports and writes news articles for media outlets.",
-      "monthly_data": [21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5, 26.0, 26.5]
-    },
-    {
-      "name": "Psychologist",
-      "category": "Healthcare",
-      "country": "Global",
-      "description": "Provides mental health assessment and therapy.",
-      "monthly_data": [28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5]
-    },
-    {
-      "name": "Chef",
-      "category": "Hospitality",
-      "country": "Global",
-      "description": "Prepares and designs culinary dishes in restaurants.",
-      "monthly_data": [20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5]
-    },
-    {
-      "name": "Electrical Engineer",
-      "category": "Engineering",
-      "country": "Global",
-      "description": "Designs and maintains electrical systems and devices.",
-      "monthly_data": [30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5]
-    },
-    {
       "name": "Marketing Analyst",
       "category": "Marketing",
       "country": "Global",
       "description": "Analyzes market trends to guide business strategies.",
       "monthly_data": [24.0, 24.5, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5]
-    },
-    {
-      "name": "Architect",
-      "category": "Design",
-      "country": "Global",
-      "description": "Designs buildings and oversees construction projects.",
-      "monthly_data": [31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5]
-    },
-    {
-      "name": "Biotech Engineer",
-      "category": "Science",
-      "country": "Global",
-      "description": "Develops biotechnological solutions in healthcare and agriculture.",
-      "monthly_data": [34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5]
-    },
-    {
-      "name": "UX Researcher",
-      "category": "Design",
-      "country": "Global",
-      "description": "Conducts user research to improve product usability.",
-      "monthly_data": [26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5]
-    },
-    {
-      "name": "Data Privacy Officer",
-      "category": "Legal",
-      "country": "Global",
-      "description": "Ensures compliance with data protection regulations.",
-      "monthly_data": [32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5]
-    },
-    {
-      "name": "Mechanical Engineer",
-      "category": "Engineering",
-      "country": "Global",
-      "description": "Designs and develops mechanical systems and devices.",
-      "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
-    },
-    {
-      "name": "Journalist",
-      "category": "Writing",
-      "country": "Global",
-      "description": "Reports and writes news articles for media outlets.",
-      "monthly_data": [21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5, 26.0, 26.5]
-    },
-    {
-      "name": "Psychologist",
-      "category": "Healthcare",
-      "country": "Global",
-      "description": "Provides mental health assessment and therapy.",
-      "monthly_data": [28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5]
-    },
-    {
-      "name": "Chef",
-      "category": "Hospitality",
-      "country": "Global",
-      "description": "Prepares and designs culinary dishes in restaurants.",
-      "monthly_data": [20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5, 25.0, 25.5]
-    },
-    {
-      "name": "Electrical Engineer",
-      "category": "Engineering",
-      "country": "Global",
-      "description": "Designs and maintains electrical systems and devices.",
-      "monthly_data": [30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5]
-    },
-    {
-      "name": "Marketing Analyst",
-      "category": "Marketing",
-      "country": "Global",
-      "description": "Analyzes market trends to guide business strategies.",
-      "monthly_data": [24.0, 24.5, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5]
-    },
-    {
-      "name": "Architect",
-      "category": "Design",
-      "country": "Global",
-      "description": "Designs buildings and oversees construction projects.",
-      "monthly_data": [31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5]
-    },
-    {
-      "name": "Biotech Engineer",
-      "category": "Science",
-      "country": "Global",
-      "description": "Develops biotechnological solutions in healthcare and agriculture.",
-      "monthly_data": [34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5]
     },
     {
       "name": "Blockchain Developer",
@@ -149,39 +23,11 @@
       "monthly_data": [34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5]
     },
     {
-      "name": "Robotics Engineer",
-      "category": "Engineering",
-      "country": "Global",
-      "description": "Designs and develops robotic systems and automation.",
-      "monthly_data": [33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5, 37.0, 37.5, 38.0, 38.5]
-    },
-    {
       "name": "Copy Editor",
       "category": "Writing",
       "country": "Global",
       "description": "Edits and refines written content for clarity and accuracy.",
       "monthly_data": [19.0, 19.5, 20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5, 24.0, 24.5]
-    },
-    {
-      "name": "Nurse Practitioner",
-      "category": "Healthcare",
-      "country": "Global",
-      "description": "Provides advanced nursing care and patient management.",
-      "monthly_data": [28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5]
-    },
-    {
-      "name": "Supply Chain Analyst",
-      "category": "Business",
-      "country": "Global",
-      "description": "Optimizes logistics and supply chain operations.",
-      "monthly_data": [26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5]
-    },
-    {
-      "name": "Environmental Scientist",
-      "category": "Science",
-      "country": "Global",
-      "description": "Studies environmental data to address ecological issues.",
-      "monthly_data": [25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5]
     },
     {
       "name": "Game Developer",
@@ -191,25 +37,11 @@
       "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
     },
     {
-      "name": "Pharmaceutical Researcher",
-      "category": "Healthcare",
-      "country": "Global",
-      "description": "Develops and tests new drugs and treatments.",
-      "monthly_data": [31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5, 36.0, 36.5]
-    },
-    {
       "name": "Customer Support Specialist",
       "category": "Service",
       "country": "Global",
       "description": "Provides assistance and solutions to customer inquiries.",
       "monthly_data": [17.0, 17.5, 18.0, 18.5, 19.0, 19.5, 20.0, 20.5, 21.0, 21.5, 22.0, 22.5]
-    },
-    {
-      "name": "Economist",
-      "category": "Finance",
-      "country": "Global",
-      "description": "Analyzes economic trends and advises on policy or strategy.",
-      "monthly_data": [30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5, 35.0, 35.5]
     },
     {
       "name": "AI Engineer",
@@ -254,34 +86,6 @@
       "monthly_data": [37.0, 37.5, 38.0, 38.5, 39.0, 39.5, 40.0, 40.5, 41.0, 41.5, 42.0, 42.5]
     },
     {
-      "name": "Operations Manager",
-      "category": "Management",
-      "country": "Global",
-      "description": "Oversees daily operations and process efficiency.",
-      "monthly_data": [27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5]
-    },
-    {
-      "name": "Sales Executive",
-      "category": "Sales",
-      "country": "Global",
-      "description": "Drives revenue through client acquisition and retention.",
-      "monthly_data": [23.0, 23.5, 24.0, 24.5, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5]
-    },
-    {
-      "name": "Research Scientist",
-      "category": "Science",
-      "country": "Global",
-      "description": "Conducts scientific research and publishes findings.",
-      "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
-    },
-    {
-      "name": "Systems Administrator",
-      "category": "IT",
-      "country": "Global",
-      "description": "Maintains and supports IT systems and networks.",
-      "monthly_data": [25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5]
-    },
-    {
       "name": "Cybersecurity Specialist",
       "category": "IT Security",
       "country": "Global",
@@ -310,20 +114,6 @@
       "monthly_data": [28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5]
     },
     {
-      "name": "Accountant",
-      "category": "Finance",
-      "country": "Global",
-      "description": "Manages financial records and ensures compliance.",
-      "monthly_data": [24.0, 24.5, 25.0, 25.5, 26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5]
-    },
-    {
-      "name": "HR Manager",
-      "category": "Management",
-      "country": "Global",
-      "description": "Oversees recruitment, employee relations, and HR policies.",
-      "monthly_data": [26.0, 26.5, 27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5]
-    },
-    {
       "name": "Business Analyst",
       "category": "Business",
       "country": "Global",
@@ -331,25 +121,11 @@
       "monthly_data": [27.0, 27.5, 28.0, 28.5, 29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5]
     },
     {
-      "name": "Healthcare Data Analyst",
-      "category": "Healthcare",
-      "country": "Global",
-      "description": "Analyzes medical data to improve patient outcomes.",
-      "monthly_data": [29.0, 29.5, 30.0, 30.5, 31.0, 31.5, 32.0, 32.5, 33.0, 33.5, 34.0, 34.5]
-    },
-    {
       "name": "Teacher (Online Education)",
       "category": "Education",
       "country": "Global",
       "description": "Provides instruction and learning support via online platforms.",
       "monthly_data": [18.0, 18.5, 19.0, 19.5, 20.0, 20.5, 21.0, 21.5, 22.0, 22.5, 23.0, 23.5]
-    },
-    {
-      "name": "Legal Consultant",
-      "category": "Legal",
-      "country": "Global",
-      "description": "Advises clients on legal matters and compliance.",
-      "monthly_data": [36.0, 36.5, 37.0, 37.5, 38.0, 38.5, 39.0, 39.5, 40.0, 40.5, 41.0, 41.5]
     },
     {
       "name": "Full Stack Developer",
