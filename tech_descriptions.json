@@ -459,5 +459,1467 @@
   "drupal": {
     "es": "Sistema de gestión de contenidos flexible para sitios web complejos.",
     "en": "Flexible content management system for complex websites."
+  },
+  "ebay": {
+    "es": "Plataforma global de comercio electrónico para la compra y venta de productos.",
+    "en": "Global e-commerce platform for buying and selling products."
+  },
+  "eclipseide": {
+    "es": "Entorno de desarrollo integrado popular para Java y otros lenguajes.",
+    "en": "Popular integrated development environment for Java and other languages."
+  },
+  "ecosia": {
+    "es": "Motor de búsqueda que utiliza sus beneficios para plantar árboles en todo el mundo.",
+    "en": "Search engine that uses its profits to plant trees worldwide."
+  },
+  "editorconfig": {
+    "es": "Formato de archivo para mantener estilos de codificación consistentes en diferentes editores.",
+    "en": "File format for maintaining consistent coding styles across different editors."
+  },
+  "edx": {
+    "es": "Plataforma de educación en línea con cursos de universidades de prestigio.",
+    "en": "Online education platform with courses from prestigious universities."
+  },
+  "ejs": {
+    "es": "Lenguaje de plantillas simple para generar marcado HTML con JavaScript.",
+    "en": "Simple templating language for generating HTML markup with JavaScript."
+  },
+  "elasticsearch": {
+    "es": "Motor de búsqueda y analítica distribuido, gratuito y abierto.",
+    "en": "Free and open distributed search and analytics engine."
+  },
+  "electron": {
+    "es": "Framework para crear aplicaciones de escritorio nativas con tecnologías web.",
+    "en": "Framework for creating native desktop applications using web technologies."
+  },
+  "elementor": {
+    "es": "Maquetador visual de sitios web líder para la plataforma WordPress.",
+    "en": "Leading visual website builder for the WordPress platform."
+  },
+  "elevenlabs": {
+    "es": "Software avanzado de IA para la generación de voz y síntesis de audio.",
+    "en": "Advanced AI software for voice generation and audio synthesis."
+  },
+  "elixir": {
+    "es": "Lenguaje funcional dinámico diseñado para construir aplicaciones escalables.",
+    "en": "Dynamic, functional language designed for building scalable applications."
+  },
+  "elm": {
+    "es": "Lenguaje funcional para el desarrollo de interfaces de usuario en el navegador.",
+    "en": "Functional language for developing browser-based user interfaces."
+  },
+  "embarcadero": {
+    "es": "Herramientas de desarrollo de software para aplicaciones multiplataforma.",
+    "en": "Software development tools for multi-platform applications."
+  },
+  "emberdotjs": {
+    "es": "Framework de JavaScript para crear aplicaciones web ambiciosas.",
+    "en": "JavaScript framework for building ambitious web applications."
+  },
+  "ens": {
+    "es": "Sistema de nombres descentralizado basado en la cadena de bloques Ethereum.",
+    "en": "Decentralized naming system based on the Ethereum blockchain."
+  },
+  "envato": {
+    "es": "Mercado digital de activos creativos, plantillas y herramientas de diseño.",
+    "en": "Digital marketplace for creative assets, templates, and design tools."
+  },
+  "epicgames": {
+    "es": "Desarrollador de videojuegos y creador del motor gráfico Unreal Engine.",
+    "en": "Video game developer and creator of the Unreal Engine graphics motor."
+  },
+  "erlang": {
+    "es": "Lenguaje de programación orientado a sistemas concurrentes y distribuidos.",
+    "en": "Programming language oriented towards concurrent and distributed systems."
+  },
+  "esbuild": {
+    "es": "Empaquetador de JavaScript extremadamente rápido para la web moderna.",
+    "en": "Extremely fast JavaScript bundler for the modern web."
+  },
+  "eslint": {
+    "es": "Herramienta de análisis de código estático para identificar problemas en JavaScript.",
+    "en": "Static code analysis tool to identify problems in JavaScript."
+  },
+  "esphome": {
+    "es": "Sistema para controlar microcontroladores ESP8266/ESP32 de forma sencilla.",
+    "en": "System for simple control of ESP8266/ESP32 microcontrollers."
+  },
+  "ethereum": {
+    "es": "Plataforma blockchain descentralizada que permite contratos inteligentes y dApps.",
+    "en": "Decentralized blockchain platform enabling smart contracts and dApps."
+  },
+  "ethers": {
+    "es": "Biblioteca compacta y completa para interactuar con la red Ethereum.",
+    "en": "Complete and compact library for interacting with the Ethereum network."
+  },
+  "etsy": {
+    "es": "Mercado en línea enfocado en artículos hechos a mano y vintage.",
+    "en": "Online marketplace focused on handmade and vintage items."
+  },
+  "excalidraw": {
+    "es": "Herramienta de pizarra virtual para dibujos con apariencia de boceto.",
+    "en": "Virtual whiteboard tool for drawings with a hand-drawn look."
+  },
+  "expo": {
+    "es": "Ecosistema de herramientas para desarrollar apps nativas con React.",
+    "en": "Ecosystem of tools for developing native apps with React."
+  },
+  "express": {
+    "es": "Framework web minimalista y flexible para aplicaciones de Node.js.",
+    "en": "Minimalist and flexible web framework for Node.js applications."
+  },
+  "facebook": {
+    "es": "Red social global que conecta a personas y empresas en todo el mundo.",
+    "en": "Global social network connecting people and businesses worldwide."
+  },
+  "fastapi": {
+    "es": "Framework moderno y rápido para construir APIs con Python.",
+    "en": "Modern and fast framework for building APIs with Python."
+  },
+  "fastify": {
+    "es": "Framework web enfocado en el rendimiento y baja sobrecarga para Node.js.",
+    "en": "Web framework focused on performance and low overhead for Node.js."
+  },
+  "fastly": {
+    "es": "Plataforma de nube perimetral para una entrega de contenido rápida y segura.",
+    "en": "Edge cloud platform for fast and secure content delivery."
+  },
+  "fedora": {
+    "es": "Distribución de Linux innovadora impulsada por la comunidad.",
+    "en": "Innovative community-driven Linux distribution."
+  },
+  "ffmpeg": {
+    "es": "Solución multimedia completa para grabar, convertir y transmitir audio y video.",
+    "en": "Complete multimedia solution to record, convert, and stream audio and video."
+  },
+  "figma": {
+    "es": "Herramienta de diseño colaborativo para interfaces y prototipado.",
+    "en": "Collaborative design tool for interfaces and prototyping."
+  },
+  "filament": {
+    "es": "Colección de componentes de interfaz de usuario para aplicaciones Laravel.",
+    "en": "Collection of UI components for Laravel applications."
+  },
+  "filezilla": {
+    "es": "Cliente FTP gratuito y de código abierto para la transferencia de archivos.",
+    "en": "Free and open-source FTP client for file transfer."
+  },
+  "firebase": {
+    "es": "Plataforma de Google para el desarrollo rápido de aplicaciones móviles y web.",
+    "en": "Google's platform for rapid mobile and web application development."
+  },
+  "firefox": {
+    "es": "Navegador web de código abierto que prioriza la privacidad del usuario.",
+    "en": "Open-source web browser prioritizing user privacy."
+  },
+  "flask": {
+    "es": "Micro-framework de Python ligero para el desarrollo web sencillo.",
+    "en": "Lightweight Python micro-framework for simple web development."
+  },
+  "flutter": {
+    "es": "Framework de Google para crear aplicaciones nativas multiplataforma.",
+    "en": "Google's framework for building multi-platform native applications."
+  },
+  "fontawesome": {
+    "es": "La biblioteca de iconos y herramientas de diseño más popular de la web.",
+    "en": "The web's most popular icon library and toolkit."
+  },
+  "fortnite": {
+    "es": "Videojuego de batalla real y plataforma social desarrollado por Epic Games.",
+    "en": "Battle royale video game and social platform developed by Epic Games."
+  },
+  "fortran": {
+    "es": "Lenguaje de programación para computación numérica y científica.",
+    "en": "Programming language for numeric and scientific computing."
+  },
+  "foursquare": {
+    "es": "Tecnología de datos de ubicación y plataforma de búsqueda de lugares.",
+    "en": "Location data technology and venue discovery platform."
+  },
+  "framer": {
+    "es": "Herramienta de diseño y publicación de sitios web interactivos de alto nivel.",
+    "en": "High-level design and publishing tool for interactive websites."
+  },
+  "freebsd": {
+    "es": "Sistema operativo avanzado de código abierto basado en BSD Unix.",
+    "en": "Advanced open-source operating system based on BSD Unix."
+  },
+  "freecodecamp": {
+    "es": "Organización sin fines de lucro que ofrece formación gratuita en programación.",
+    "en": "Non-profit organization offering free coding education."
+  },
+  "fsharp": {
+    "es": "Lenguaje de programación funcional, imperativo y orientado a objetos para .NET.",
+    "en": "Functional, imperative, and object-oriented programming language for .NET."
+  },
+  "gatsby": {
+    "es": "Framework basado en React para crear sitios web y aplicaciones estáticamente generadas.",
+    "en": "React-based framework for creating statically generated websites and applications."
+  },
+  "geeksforgeeks": {
+    "es": "Portal de aprendizaje con recursos y tutoriales para programadores y científicos de datos.",
+    "en": "Learning portal with resources and tutorials for programmers and data scientists."
+  },
+  "gentoo": {
+    "es": "Distribución de Linux altamente flexible basada en el código fuente.",
+    "en": "Highly flexible Linux distribution based on source code."
+  },
+  "ghost": {
+    "es": "Plataforma de publicación profesional de código abierto para creadores y medios.",
+    "en": "Professional open-source publishing platform for creators and media."
+  },
+  "gimp": {
+    "es": "Editor de imágenes multiplataforma gratuito y de código abierto.",
+    "en": "Free and open-source multi-platform image editor."
+  },
+  "gin": {
+    "es": "Framework web de alto rendimiento escrito en Go para el desarrollo de APIs.",
+    "en": "High-performance web framework written in Go for API development."
+  },
+  "git": {
+    "es": "Sistema de control de versiones distribuido diseñado para manejar proyectos de software.",
+    "en": "Distributed version control system designed to handle software projects."
+  },
+  "github": {
+    "es": "Plataforma líder para alojar proyectos de software y colaborar con Git.",
+    "en": "Leading platform for hosting software projects and collaborating with Git."
+  },
+  "githubactions": {
+    "es": "Herramienta de automatización de flujos de trabajo de CI/CD integrada en GitHub.",
+    "en": "CI/CD workflow automation tool integrated within GitHub."
+  },
+  "githubcopilot": {
+    "es": "Asistente de codificación con IA que sugiere código y funciones en tiempo real.",
+    "en": "AI coding assistant that suggests code and functions in real-time."
+  },
+  "gitlab": {
+    "es": "Plataforma completa de DevOps para el ciclo de vida del desarrollo de software.",
+    "en": "Complete DevOps platform for the software development lifecycle."
+  },
+  "gitpod": {
+    "es": "Plataforma que proporciona entornos de desarrollo automatizados en la nube.",
+    "en": "Platform providing automated development environments in the cloud."
+  },
+  "gnome": {
+    "es": "Entorno de escritorio popular y fácil de usar para sistemas operativos Linux.",
+    "en": "Popular and easy-to-use desktop environment for Linux operating systems."
+  },
+  "go": {
+    "es": "Lenguaje de programación de código abierto diseñado por Google para la eficiencia.",
+    "en": "Open-source programming language designed by Google for efficiency."
+  },
+  "godotengine": {
+    "es": "Motor de videojuegos multiplataforma gratuito y de código abierto.",
+    "en": "Free and open-source multi-platform video game engine."
+  },
+  "google": {
+    "es": "Empresa tecnológica líder especializada en servicios y productos de internet.",
+    "en": "Leading technology company specialized in internet services and products."
+  },
+  "googlecloud": {
+    "es": "Suite de servicios de computación en la nube ofrecida por Google.",
+    "en": "Suite of cloud computing services offered by Google."
+  },
+  "googlefonts": {
+    "es": "Biblioteca de fuentes tipográficas gratuitas y de código abierto para la web.",
+    "en": "Library of free and open-source typographic fonts for the web."
+  },
+  "googlegemini": {
+    "es": "Modelo de inteligencia artificial generativa avanzado desarrollado por Google.",
+    "en": "Advanced generative artificial intelligence model developed by Google."
+  },
+  "gradle": {
+    "es": "Herramienta de automatización de compilación para proyectos de software multiplataforma.",
+    "en": "Build automation tool for multi-platform software projects."
+  },
+  "grafana": {
+    "es": "Plataforma de análisis y visualización de datos de código abierto.",
+    "en": "Open-source data analytics and visualization platform."
+  },
+  "graphql": {
+    "es": "Lenguaje de consulta para APIs que permite solicitar solo los datos necesarios.",
+    "en": "Query language for APIs that allows requesting only the necessary data."
+  },
+  "greensock": {
+    "es": "Biblioteca de JavaScript estándar para crear animaciones web de alto rendimiento.",
+    "en": "Standard JavaScript library for creating high-performance web animations."
+  },
+  "gulp": {
+    "es": "Herramienta de automatización de tareas en el desarrollo web front-end.",
+    "en": "Task automation tool in front-end web development."
+  },
+  "handlebarsdotjs": {
+    "es": "Lenguaje de plantillas semántico que permite construir vistas de forma limpia.",
+    "en": "Semantic templating language that allows building views cleanly."
+  },
+  "harmonyos": {
+    "es": "Sistema operativo distribuido desarrollado por Huawei para múltiples dispositivos.",
+    "en": "Distributed operating system developed by Huawei for multiple devices."
+  },
+  "haskell": {
+    "es": "Lenguaje de programación puramente funcional y estáticamente tipado.",
+    "en": "Purely functional and statically typed programming language."
+  },
+  "hasura": {
+    "es": "Motor GraphQL instantáneo que se conecta a tus bases de datos.",
+    "en": "Instant GraphQL engine that connects to your databases."
+  },
+  "helm": {
+    "es": "Gestor de paquetes para Kubernetes que facilita el despliegue de aplicaciones.",
+    "en": "Package manager for Kubernetes that simplifies application deployment."
+  },
+  "heroku": {
+    "es": "Plataforma como servicio (PaaS) que permite desplegar aplicaciones fácilmente.",
+    "en": "Platform as a service (PaaS) that allows for easy application deployment."
+  },
+  "hibernate": {
+    "es": "Framework de mapeo objeto-relacional para el lenguaje de programación Java.",
+    "en": "Object-relational mapping framework for the Java programming language."
+  },
+  "homeassistant": {
+    "es": "Software de domótica de código abierto enfocado en la privacidad y el control local.",
+    "en": "Open-source home automation software focused on privacy and local control."
+  },
+  "homebrew": {
+    "es": "El gestor de paquetes faltante para macOS y Linux.",
+    "en": "The missing package manager for macOS and Linux."
+  },
+  "hoppscotch": {
+    "es": "Herramienta de desarrollo de APIs de código abierto, ligera y rápida.",
+    "en": "Open-source, lightweight, and fast API development tool."
+  },
+  "html5": {
+    "es": "La versión más reciente del lenguaje estándar para estructurar páginas web.",
+    "en": "The latest version of the standard language for structuring web pages."
+  },
+  "htmx": {
+    "es": "Biblioteca que permite acceder a funciones modernas del navegador directamente en HTML.",
+    "en": "Library that allows access to modern browser features directly in HTML."
+  },
+  "huawei": {
+    "es": "Proveedor global de infraestructura de TI y dispositivos inteligentes.",
+    "en": "Global provider of IT infrastructure and smart devices."
+  },
+  "hubspot": {
+    "es": "Plataforma de CRM con herramientas para marketing, ventas y servicio al cliente.",
+    "en": "CRM platform with tools for marketing, sales, and customer service."
+  },
+  "huggingface": {
+    "es": "Plataforma líder para la colaboración en modelos de inteligencia artificial y datos.",
+    "en": "Leading platform for collaboration on artificial intelligence models and data."
+  },
+  "hugo": {
+    "es": "Generador de sitios estáticos extremadamente rápido escrito en Go.",
+    "en": "Extremely fast static site generator written in Go."
+  },
+  "i18next": {
+    "es": "Framework de internacionalización para JavaScript y diversas plataformas.",
+    "en": "Internationalization framework for JavaScript and various platforms."
+  },
+  "icloud": {
+    "es": "Servicio de almacenamiento y computación en la nube de Apple.",
+    "en": "Apple's cloud storage and computing service."
+  },
+  "ifttt": {
+    "es": "Servicio que conecta diferentes aplicaciones y dispositivos mediante automatizaciones.",
+    "en": "Service that connects different apps and devices through automations."
+  },
+  "inkscape": {
+    "es": "Editor de gráficos vectoriales gratuito y de código abierto de calidad profesional.",
+    "en": "Free and open-source professional-quality vector graphics editor."
+  },
+  "insomnia": {
+    "es": "Plataforma de diseño y pruebas de APIs para equipos de desarrollo.",
+    "en": "API design and testing platform for development teams."
+  },
+  "instagram": {
+    "es": "Red social enfocada en compartir fotos y videos de forma visual.",
+    "en": "Social network focused on sharing photos and videos visually."
+  },
+  "intel": {
+    "es": "Líder mundial en el diseño y fabricación de microprocesadores y hardware.",
+    "en": "World leader in the design and manufacture of microprocessors and hardware."
+  },
+  "intellijidea": {
+    "es": "IDE potente de JetBrains para el desarrollo profesional en Java y Kotlin.",
+    "en": "Powerful JetBrains IDE for professional Java and Kotlin development."
+  },
+  "ionic": {
+    "es": "Framework para construir aplicaciones móviles y de escritorio con tecnologías web.",
+    "en": "Framework for building mobile and desktop apps with web technologies."
+  },
+  "ios": {
+    "es": "Sistema operativo móvil de Apple para iPhone y dispositivos relacionados.",
+    "en": "Apple's mobile operating system for iPhone and related devices."
+  },
+  "ipfs": {
+    "es": "Protocolo para crear una red de almacenamiento de archivos descentralizada.",
+    "en": "Protocol for creating a decentralized file storage network."
+  },
+  
+  "jamstack": {
+    "es": "Arquitectura de desarrollo web moderna basada en JavaScript, APIs y Markup.",
+    "en": "Modern web development architecture based on JavaScript, APIs, and Markup."
+  },
+  "jasmine": {
+    "es": "Framework de desarrollo dirigido por comportamiento para probar código JavaScript.",
+    "en": "Behavior-driven development framework for testing JavaScript code."
+  },
+  "javascript": {
+    "es": "Lenguaje de programación fundamental para la interactividad en la web.",
+    "en": "Essential programming language for web interactivity."
+  },
+  "jekyll": {
+    "es": "Generador de sitios estáticos sencillo y orientado a blogs, compatible con GitHub Pages.",
+    "en": "Simple, blog-aware static site generator compatible with GitHub Pages."
+  },
+  "jellyfin": {
+    "es": "Sistema de medios de software libre para organizar y transmitir archivos multimedia.",
+    "en": "Free software media system for organizing and streaming multimedia files."
+  },
+  "jenkins": {
+    "es": "Servidor de automatización de código abierto líder para integración y despliegue continuo.",
+    "en": "Leading open-source automation server for continuous integration and deployment."
+  },
+  "jest": {
+    "es": "Framework de pruebas de JavaScript con un enfoque en la simplicidad y el rendimiento.",
+    "en": "JavaScript testing framework with a focus on simplicity and performance."
+  },
+  "jetbrains": {
+    "es": "Empresa líder en herramientas de desarrollo y entornos integrados (IDEs) profesionales.",
+    "en": "Leading company in development tools and professional integrated environments (IDEs)."
+  },
+  "jetpackcompose": {
+    "es": "Kit de herramientas moderno de Android para construir interfaces de usuario nativas.",
+    "en": "Modern Android toolkit for building native user interfaces."
+  },
+  "jinja": {
+    "es": "Motor de plantillas extensible y potente para el lenguaje de programación Python.",
+    "en": "Extensible and powerful templating engine for the Python programming language."
+  },
+  "jira": {
+    "es": "Herramienta de gestión de proyectos y seguimiento de errores para equipos ágiles.",
+    "en": "Project management and issue tracking tool for agile teams."
+  },
+  "joomla": {
+    "es": "Sistema de gestión de contenidos de código abierto para publicar contenido web.",
+    "en": "Open-source content management system for publishing web content."
+  },
+  "joplin": {
+    "es": "Aplicación de notas y tareas de código abierto con sincronización segura.",
+    "en": "Open-source note-taking and to-do application with secure synchronization."
+  },
+  "jquery": {
+    "es": "Biblioteca de JavaScript rápida y concisa que simplifica el manejo de documentos HTML.",
+    "en": "Fast and concise JavaScript library that simplifies HTML document handling."
+  },
+  "json": {
+    "es": "Formato ligero de intercambio de datos, fácil de leer para humanos y máquinas.",
+    "en": "Lightweight data-interchange format, easy for humans and machines to read."
+  },
+  "jsonwebtokens": {
+    "es": "Estándar abierto para transmitir información de forma segura como un objeto JSON.",
+    "en": "Open standard for securely transmitting information as a JSON object."
+  },
+  "julia": {
+    "es": "Lenguaje de alto nivel y alto rendimiento para computación técnica y científica.",
+    "en": "High-level, high-performance language for technical and scientific computing."
+  },
+  "jupyter": {
+    "es": "Aplicación web interactiva para crear y compartir documentos con código en vivo.",
+    "en": "Interactive web application for creating and sharing documents with live code."
+  },
+  "k6": {
+    "es": "Herramienta de código abierto para pruebas de carga y rendimiento de APIs y microservicios.",
+    "en": "Open-source tool for load and performance testing of APIs and microservices."
+  },
+  "kaggle": {
+    "es": "Plataforma global para competiciones de ciencia de datos y aprendizaje automático.",
+    "en": "Global platform for data science and machine learning competitions."
+  },
+  "kalilinux": {
+    "es": "Distribución de Linux enfocada en la seguridad informática y auditoría de redes.",
+    "en": "Linux distribution focused on information security and network auditing."
+  },
+  "kde": {
+    "es": "Comunidad internacional que crea software libre y de código abierto para escritorio.",
+    "en": "International community creating free and open-source desktop software."
+  },
+  "keras": {
+    "es": "API de redes neuronales de alto nivel escrita en Python para facilitar el aprendizaje profundo.",
+    "en": "High-level neural networks API written in Python to facilitate deep learning."
+  },
+  "keycloak": {
+    "es": "Solución de gestión de identidad y acceso de código abierto para aplicaciones modernas.",
+    "en": "Open-source identity and access management solution for modern applications."
+  },
+  "kibana": {
+    "es": "Herramienta de visualización y exploración de datos para el ecosistema Elasticsearch.",
+    "en": "Data visualization and exploration tool for the Elasticsearch ecosystem."
+  },
+  "kicad": {
+    "es": "Suite de automatización de diseño electrónico para esquemas y circuitos impresos.",
+    "en": "Electronic design automation suite for schematics and printed circuits."
+  },
+  "kotlin": {
+    "es": "Lenguaje de programación moderno que corre en la JVM, oficial para Android.",
+    "en": "Modern programming language running on the JVM, official for Android."
+  },
+  "kubernetes": {
+    "es": "Plataforma de código abierto para automatizar el despliegue y gestión de contenedores.",
+    "en": "Open-source platform for automating deployment and management of containers."
+  },
+  "langchain": {
+    "es": "Framework para desarrollar aplicaciones impulsadas por modelos de lenguaje (LLM).",
+    "en": "Framework for developing applications powered by language models (LLMs)."
+  },
+  "laravel": {
+    "es": "Framework de PHP elegante y expresivo para el desarrollo web moderno.",
+    "en": "Elegant and expressive PHP framework for modern web development."
+  },
+  "lastpass": {
+    "es": "Servicio de gestión de contraseñas para almacenar credenciales de forma segura.",
+    "en": "Password management service for securely storing credentials."
+  },
+  "latex": {
+    "es": "Sistema de preparación de documentos para la composición tipográfica de alta calidad.",
+    "en": "Document preparation system for high-quality typesetting."
+  },
+  "leaflet": {
+    "es": "Biblioteca de JavaScript de código abierto para mapas interactivos adaptables.",
+    "en": "Open-source JavaScript library for mobile-friendly interactive maps."
+  },
+  "leetcode": {
+    "es": "Plataforma para mejorar habilidades de programación mediante resolución de problemas.",
+    "en": "Platform for improving programming skills through problem-solving."
+  },
+  "less": {
+    "es": "Extensión de lenguaje para CSS que añade variables, funciones y mixins.",
+    "en": "Language extension for CSS adding variables, functions, and mixins."
+  },
+  "letsencrypt": {
+    "es": "Autoridad de certificación gratuita, automatizada y abierta para sitios web.",
+    "en": "Free, automated, and open certificate authority for websites."
+  },
+  "libreoffice": {
+    "es": "Suite de oficina libre y potente, sucesora de OpenOffice.",
+    "en": "Powerful and free office suite, successor to OpenOffice."
+  },
+  "linux": {
+    "es": "Núcleo de sistema operativo de código abierto y base de muchas distribuciones.",
+    "en": "Open-source operating system kernel and foundation of many distributions."
+  },
+  "lodash": {
+    "es": "Biblioteca de utilidades de JavaScript que facilita el trabajo con arreglos y objetos.",
+    "en": "JavaScript utility library making it easier to work with arrays and objects."
+  },
+  "lua": {
+    "es": "Lenguaje de programación ligero y potente diseñado para aplicaciones integradas.",
+    "en": "Lightweight and powerful programming language designed for embedded applications."
+  },
+  "macos": {
+    "es": "Sistema operativo de Apple diseñado específicamente para ordenadores Mac.",
+    "en": "Apple's operating system designed specifically for Mac computers."
+  },
+  "mailchimp": {
+    "es": "Plataforma líder en automatización de marketing y servicios de correo electrónico.",
+    "en": "Leading platform for marketing automation and email services."
+  },
+  "make": {
+    "es": "Herramienta de automatización que permite conectar aplicaciones y flujos de trabajo.",
+    "en": "Automation tool that allows connecting applications and workflows."
+  },
+  "mariadb": {
+    "es": "Sistema de gestión de bases de datos relacionales, derivado de MySQL y de código abierto.",
+    "en": "Open-source relational database management system, a fork of MySQL."
+  },
+  "markdown": {
+    "es": "Lenguaje de marcado ligero para crear texto con formato usando texto plano.",
+    "en": "Lightweight markup language for creating formatted text using plain text."
+  },
+  "mastercard": {
+    "es": "Red global de tecnología de pagos y servicios financieros.",
+    "en": "Global payment technology and financial services network."
+  },
+  "mastodon": {
+    "es": "Red social descentralizada y de código abierto basada en el protocolo ActivityPub.",
+    "en": "Decentralized, open-source social network based on the ActivityPub protocol."
+  },
+  "materialdesign": {
+    "es": "Sistema de diseño creado por Google para interfaces visuales consistentes y modernas.",
+    "en": "Design system created by Google for consistent and modern visual interfaces."
+  },
+  "matlab": {
+    "es": "Plataforma de programación y cálculo numérico para ingenieros y científicos.",
+    "en": "Programming and numeric computing platform for engineers and scientists."
+  },
+  "matplotlib": {
+    "es": "Biblioteca de Python para la creación de visualizaciones estáticas y animadas.",
+    "en": "Python library for creating static and animated visualizations."
+  },
+  "mdnwebdocs": {
+    "es": "Recurso de documentación técnica fundamental para desarrolladores web.",
+    "en": "Essential technical documentation resource for web developers."
+  },
+  "medium": {
+    "es": "Plataforma de publicación en línea para artículos y blogs de alta calidad.",
+    "en": "Online publishing platform for high-quality articles and blogs."
+  },
+  "meilisearch": {
+    "es": "Motor de búsqueda de código abierto increíblemente rápido y fácil de usar.",
+    "en": "Incredibly fast and easy-to-use open-source search engine."
+  },
+  "mermaid": {
+    "es": "Herramienta basada en JavaScript para generar diagramas y gráficos mediante texto.",
+    "en": "JavaScript-based tool for generating diagrams and charts using text."
+  },
+  "meta": {
+    "es": "Conglomerado tecnológico propietario de Facebook, Instagram y WhatsApp.",
+    "en": "Technology conglomerate owning Facebook, Instagram, and WhatsApp."
+  },
+  "metabase": {
+    "es": "Herramienta de inteligencia de negocios de código abierto para visualizar datos.",
+    "en": "Open-source business intelligence tool for visualizing data."
+  },
+  "meteor": {
+    "es": "Framework completo de JavaScript para el desarrollo rápido de aplicaciones web y móviles.",
+    "en": "Full-stack JavaScript framework for rapid web and mobile app development."
+  },
+  "microsoft": {
+    "es": "Corporación multinacional líder en software, servicios y hardware informático.",
+    "en": "Leading multinational corporation in software, services, and computing hardware."
+  },
+  "microsoftazure": {
+    "es": "Plataforma de computación en la nube de Microsoft para gestionar aplicaciones.",
+    "en": "Microsoft's cloud computing platform for managing applications."
+  },
+  "mikrotik": {
+    "es": "Fabricante de equipos de red y desarrollador de sistemas operativos para routers.",
+    "en": "Network equipment manufacturer and developer of router operating systems."
+  },
+  "minio": {
+    "es": "Servidor de almacenamiento de objetos de alto rendimiento compatible con S3.",
+    "en": "High-performance S3-compatible object storage server."
+  },
+  "mistralai": {
+    "es": "Empresa de IA enfocada en modelos de lenguaje abiertos y eficientes.",
+    "en": "AI company focused on open and efficient language models."
+  },
+  "mixpanel": {
+    "es": "Plataforma de análisis de productos para entender el comportamiento del usuario.",
+    "en": "Product analytics platform to understand user behavior."
+  },
+  "mlflow": {
+    "es": "Plataforma de código abierto para gestionar el ciclo de vida del aprendizaje automático.",
+    "en": "Open-source platform for managing the machine learning lifecycle."
+  },
+  "mobx": {
+    "es": "Biblioteca de gestión de estado simple y escalable para aplicaciones de JavaScript.",
+    "en": "Simple and scalable state management library for JavaScript applications."
+  },
+  "mocha": {
+    "es": "Framework de pruebas de JavaScript para Node.js y el navegador.",
+    "en": "JavaScript test framework for Node.js and the browser."
+  },
+  "mongodb": {
+    "es": "Base de datos NoSQL líder orientada a documentos de alta disponibilidad.",
+    "en": "Leading document-oriented NoSQL database for high availability."
+  },
+  "mongoose": {
+    "es": "Biblioteca de modelado de datos para MongoDB diseñada para Node.js.",
+    "en": "Data modeling library for MongoDB designed for Node.js."
+  },
+  "mozilla": {
+    "es": "Organización sin fines de lucro dedicada a mantener la web abierta y accesible.",
+    "en": "Non-profit organization dedicated to keeping the web open and accessible."
+  },
+  "mui": {
+    "es": "Biblioteca de componentes de React que implementa Material Design de Google.",
+    "en": "React component library implementing Google's Material Design."
+  },
+  "mysql": {
+    "es": "Sistema de gestión de bases de datos relacionales más utilizado en el mundo.",
+    "en": "The world's most widely used relational database management system."
+  },
+  "n26": {
+    "es": "Banco digital europeo que ofrece servicios financieros móviles modernos.",
+    "en": "European digital bank offering modern mobile financial services."
+  },
+  "namecheap": {
+    "es": "Registrador de dominios y proveedor de alojamiento web de confianza.",
+    "en": "Trusted domain registrar and web hosting provider."
+  },
+  "nativescript": {
+    "es": "Framework de código abierto para construir aplicaciones móviles nativas con tecnologías web.",
+    "en": "Open-source framework for building native mobile apps with web technologies."
+  },
+  "neo4j": {
+    "es": "Sistema de gestión de bases de datos orientada a grafos de alto rendimiento.",
+    "en": "High-performance graph-oriented database management system."
+  },
+  "neovim": {
+    "es": "Editor de texto extensible basado en Vim enfocado en la usabilidad.",
+    "en": "Extensible Vim-based text editor focused on usability."
+  },
+  "nestjs": {
+    "es": "Framework progresivo de Node.js para construir aplicaciones de servidor escalables.",
+    "en": "Progressive Node.js framework for building scalable server-side applications."
+  },
+  "netflix": {
+    "es": "Servicio de streaming líder mundial en entretenimiento y contenido original.",
+    "en": "Global leader in streaming entertainment and original content."
+  },
+  "netlify": {
+    "es": "Plataforma en la nube para el despliegue automático de sitios web modernos.",
+    "en": "Cloud platform for the automatic deployment of modern websites."
+  },
+  "nextdotjs": {
+    "es": "Framework de React para aplicaciones web con renderizado en el servidor y optimización SEO.",
+    "en": "React framework for web apps with server-side rendering and SEO optimization."
+  },
+  "nginx": {
+    "es": "Servidor web de alto rendimiento y balanceador de carga de código abierto.",
+    "en": "High-performance, open-source web server and load balancer."
+  },
+  "nike": {
+    "es": "Marca global líder en diseño y fabricación de calzado y equipo deportivo.",
+    "en": "Leading global brand in sports footwear and equipment design."
+  },
+  "nixos": {
+    "es": "Distribución de Linux basada en el gestor de paquetes Nix con configuración declarativa.",
+    "en": "Linux distribution based on the Nix package manager with declarative configuration."
+  },
+  "nodedotjs": {
+    "es": "Entorno de ejecución de JavaScript para construir aplicaciones de red rápidas.",
+    "en": "JavaScript runtime for building fast network applications."
+  },
+  "nodemon": {
+    "es": "Herramienta que reinicia automáticamente aplicaciones Node.js tras cambios en el código.",
+    "en": "Tool that automatically restarts Node.js apps after code changes."
+  },
+  "nodered": {
+    "es": "Herramienta de programación visual para conectar dispositivos de hardware y APIs.",
+    "en": "Visual programming tool for connecting hardware devices and APIs."
+  },
+  "notion": {
+    "es": "Espacio de trabajo todo en uno para notas, bases de datos y gestión de proyectos.",
+    "en": "All-in-one workspace for notes, databases, and project management."
+  },
+  "npm": {
+    "es": "El gestor de paquetes predeterminado para el entorno Node.js.",
+    "en": "The default package manager for the Node.js environment."
+  },
+  "numpy": {
+    "es": "Biblioteca fundamental para la computación científica con el lenguaje Python.",
+    "en": "Fundamental library for scientific computing with the Python language."
+  },
+  "nuxt": {
+    "es": "Framework intuitivo basado en Vue.js para crear aplicaciones web modernas.",
+    "en": "Intuitive Vue.js-based framework for building modern web applications."
+  },
+  "nvidia": {
+    "es": "Líder mundial en hardware de computación visual y tecnología de IA.",
+    "en": "World leader in visual computing hardware and AI technology."
+  },
+  "obsstudio": {
+    "es": "Software de código abierto para la grabación de video y transmisión en vivo.",
+    "en": "Open-source software for video recording and live streaming."
+  },
+  "odoo": {
+    "es": "Suite completa de aplicaciones empresariales de código abierto para gestión de negocios.",
+    "en": "Complete suite of open-source business apps for business management."
+  },
+  "okta": {
+    "es": "Servicio de gestión de identidades y acceso seguro para aplicaciones modernas.",
+    "en": "Secure identity and access management service for modern applications."
+  },
+  "ollama": {
+    "es": "Herramienta que permite ejecutar modelos de lenguaje (LLM) de forma local.",
+    "en": "Tool that allows running large language models (LLMs) locally."
+  },
+  "openai": {
+    "es": "Organización de investigación en IA dedicada a desarrollar inteligencia segura y útil.",
+    "en": "AI research organization dedicated to developing safe and useful intelligence."
+  },
+  "openapiinitiative": {
+    "es": "Estándar abierto para describir y documentar APIs RESTful de forma legible.",
+    "en": "Open standard for describing and documenting RESTful APIs in a readable way."
+  },
+  "opencv": {
+    "es": "Biblioteca de código abierto para tareas de visión artificial y procesamiento de imágenes.",
+    "en": "Open-source library for computer vision and image processing tasks."
+  },
+  "opengl": {
+    "es": "Estándar de la industria para el renderizado de gráficos 2D y 3D.",
+    "en": "Industry standard for rendering 2D and 3D graphics."
+  },
+  "openjdk": {
+    "es": "Implementación gratuita y de código abierto de la plataforma Java.",
+    "en": "Free and open-source implementation of the Java platform."
+  },
+  "oracle": {
+    "es": "Multinacional líder en servicios de bases de datos y software empresarial.",
+    "en": "Leading multinational in database services and enterprise software."
+  },
+  "pagerduty": {
+    "es": "Plataforma de gestión de incidentes para equipos de operaciones de TI y desarrollo.",
+    "en": "Incident management platform for IT operations and development teams."
+  },
+  "pandas": {
+    "es": "Biblioteca de Python para la manipulación y el análisis de estructuras de datos.",
+    "en": "Python library for data manipulation and analysis of data structures."
+  },
+  "pagerduty": {
+    "es": "Plataforma de gestión de incidentes y respuesta para equipos de TI.",
+    "en": "Incident management and response platform for IT teams."
+  },
+  "pagespeedinsights": {
+    "es": "Herramienta de Google para analizar y optimizar el rendimiento de páginas web.",
+    "en": "Google tool for analyzing and optimizing web page performance."
+  },
+  "patreon": {
+    "es": "Plataforma de micromecenazgo para que creadores de contenido obtengan ingresos.",
+    "en": "Crowdfunding platform for content creators to earn income."
+  },
+  "payoneer": {
+    "es": "Servicio de transferencias de dinero y pagos digitales para negocios globales.",
+    "en": "Digital payment and money transfer service for global businesses."
+  },
+  "paypal": {
+    "es": "Sistema de pagos en línea seguro para transferencias de dinero y compras.",
+    "en": "Secure online payment system for money transfers and purchases."
+  },
+  "pdm": {
+    "es": "Gestor de paquetes moderno para Python que soporta los estándares más recientes.",
+    "en": "Modern Python package manager supporting the latest standards."
+  },
+  "perl": {
+    "es": "Lenguaje de programación de propósito general, versátil y de alto nivel.",
+    "en": "High-level, versatile, general-purpose programming language."
+  },
+  "perplexity": {
+    "es": "Motor de búsqueda impulsado por IA que ofrece respuestas directas y precisas.",
+    "en": "AI-powered search engine providing direct and accurate answers."
+  },
+  "pfsense": {
+    "es": "Distribución de firewall y router basada en FreeBSD, gratuita y de código abierto.",
+    "en": "Free and open-source firewall and router distribution based on FreeBSD."
+  },
+  "philipshue": {
+    "es": "Sistema de iluminación inteligente para el hogar con control inalámbrico.",
+    "en": "Smart home lighting system with wireless control."
+  },
+  "phoenixframework": {
+    "es": "Framework web productivo escrito en Elixir que utiliza la máquina virtual de Erlang.",
+    "en": "Productive web framework written in Elixir utilizing the Erlang VM."
+  },
+  "photopea": {
+    "es": "Editor de gráficos rasterizados y vectoriales basado en la web.",
+    "en": "Web-based raster and vector graphics editor."
+  },
+  "php": {
+    "es": "Lenguaje de programación de código abierto especialmente adecuado para el desarrollo web.",
+    "en": "Open-source programming language especially suited for web development."
+  },
+  "phpmyadmin": {
+    "es": "Herramienta de software libre escrita en PHP para gestionar bases de datos MySQL.",
+    "en": "Free software tool written in PHP for managing MySQL databases."
+  },
+  "phpstorm": {
+    "es": "IDE comercial e inteligente para PHP desarrollado por JetBrains.",
+    "en": "Intelligent commercial IDE for PHP developed by JetBrains."
+  },
+  "pihole": {
+    "es": "Bloqueador de anuncios a nivel de red que protege tu hogar de rastreadores.",
+    "en": "Network-wide ad blocker that protects your home from trackers."
+  },
+  "pinia": {
+    "es": "Tienda de estado intuitiva y ligera para aplicaciones de Vue.js.",
+    "en": "Intuitive and lightweight state store for Vue.js applications."
+  },
+  "pinterest": {
+    "es": "Plataforma de descubrimiento visual para encontrar ideas y catálogos.",
+    "en": "Visual discovery platform for finding ideas and catalogs."
+  },
+  "playstation": {
+    "es": "Marca de consolas de videojuegos y servicios de entretenimiento de Sony.",
+    "en": "Video game console brand and entertainment services by Sony."
+  },
+  "plex": {
+    "es": "Sistema de servidor multimedia para organizar y transmitir tu propia colección.",
+    "en": "Media server system for organizing and streaming your own collection."
+  },
+  "pm2": {
+    "es": "Gestor de procesos de producción para aplicaciones Node.js con balanceo de carga.",
+    "en": "Production process manager for Node.js apps with a built-in load balancer."
+  },
+  "pnpm": {
+    "es": "Gestor de paquetes para JavaScript rápido y eficiente en el uso del espacio.",
+    "en": "Fast and disk-space-efficient package manager for JavaScript."
+  },
+  "pocketbase": {
+    "es": "Backend de código abierto en un solo archivo con base de datos y autenticación.",
+    "en": "Open-source backend in a single file with database and authentication."
+  },
+  "podman": {
+    "es": "Motor de contenedores sin demonio para desarrollar y gestionar contenedores.",
+    "en": "Daemonless container engine for developing and managing containers."
+  },
+  "poetry": {
+    "es": "Herramienta para la gestión de dependencias y empaquetado en Python.",
+    "en": "Tool for dependency management and packaging in Python."
+  },
+  "postgresql": {
+    "es": "Sistema de base de datos relacional de código abierto potente y avanzado.",
+    "en": "Powerful and advanced open-source relational database system."
+  },
+  "posthog": {
+    "es": "Plataforma de análisis de productos de código abierto para desarrolladores.",
+    "en": "Open-source product analytics platform for developers."
+  },
+  "postman": {
+    "es": "Plataforma de colaboración para el desarrollo y pruebas de APIs.",
+    "en": "Collaboration platform for API development and testing."
+  },
+  "preact": {
+    "es": "Alternativa rápida a React con la misma API en solo 3kB de tamaño.",
+    "en": "Fast React alternative with the same API in a 3kB size."
+  },
+  "prettier": {
+    "es": "Formateador de código obstinado que asegura un estilo consistente.",
+    "en": "Opinionated code formatter that ensures a consistent style."
+  },
+  "prisma": {
+    "es": "ORM de próxima generación para Node.js y TypeScript que facilita el trabajo con datos.",
+    "en": "Next-generation ORM for Node.js and TypeScript making data work easier."
+  },
+  "prometheus": {
+    "es": "Sistema de monitoreo y alerta de código abierto para servicios y sistemas.",
+    "en": "Open-source monitoring and alerting system for services and systems."
+  },
+  "protonmail": {
+    "es": "Servicio de correo electrónico seguro con cifrado de extremo a extremo.",
+    "en": "Secure email service with end-to-end encryption."
+  },
+  "proxmox": {
+    "es": "Plataforma de gestión de virtualización de servidores de código abierto.",
+    "en": "Open-source server virtualization management platform."
+  },
+  "pwa": {
+    "es": "Aplicaciones web que utilizan capacidades modernas para ofrecer una experiencia nativa.",
+    "en": "Web applications using modern capabilities to deliver a native experience."
+  },
+  "pycharm": {
+    "es": "IDE profesional de JetBrains para el desarrollo con Python.",
+    "en": "Professional JetBrains IDE for Python development."
+  },
+  "pydantic": {
+    "es": "Biblioteca de validación de datos y gestión de configuraciones para Python.",
+    "en": "Data validation and settings management library for Python."
+  },
+  "pytest": {
+    "es": "Framework que facilita la escritura de pruebas pequeñas y legibles en Python.",
+    "en": "Framework that makes it easy to write small, readable tests in Python."
+  },
+  "python": {
+    "es": "Lenguaje de programación interpretado, versátil y fácil de aprender.",
+    "en": "Interpreted, versatile, and easy-to-learn programming language."
+  },
+  "pytorch": {
+    "es": "Framework de código abierto para el aprendizaje profundo basado en la biblioteca Torch.",
+    "en": "Open-source deep learning framework based on the Torch library."
+  },
+  "qbittorrent": {
+    "es": "Cliente de BitTorrent gratuito, de código abierto y ligero.",
+    "en": "Free, open-source, and lightweight BitTorrent client."
+  },
+  "qemu": {
+    "es": "Emulador y virtualizador de máquinas genérico y de código abierto.",
+    "en": "Generic and open-source machine emulator and virtualizer."
+  },
+  "qgis": {
+    "es": "Sistema de información geográfica libre y de código abierto.",
+    "en": "Free and open-source geographic information system."
+  },
+  "qt": {
+    "es": "Framework multiplataforma para el desarrollo de interfaces de usuario y software.",
+    "en": "Cross-platform framework for UI and software development."
+  },
+  "qualcomm": {
+    "es": "Empresa líder en semiconductores y tecnología de telecomunicaciones.",
+    "en": "Leading company in semiconductors and telecommunications technology."
+  },
+  "quarkus": {
+    "es": "Framework de Java nativo de Kubernetes diseñado para GraalVM y HotSpot.",
+    "en": "Kubernetes-native Java framework designed for GraalVM and HotSpot."
+  },
+  "quasar": {
+    "es": "Framework basado en Vue.js para crear apps web, móviles y de escritorio rápidamente.",
+    "en": "Vue.js-based framework for building web, mobile, and desktop apps quickly."
+  },
+  "quickbooks": {
+    "es": "Software de contabilidad para pequeñas empresas y autónomos.",
+    "en": "Accounting software for small businesses and freelancers."
+  },
+  "rabbitmq": {
+    "es": "Broker de mensajería de código abierto que implementa protocolos estándar.",
+    "en": "Open-source message broker that implements standard protocols."
+  },
+  "raspberrypi": {
+    "es": "Serie de ordenadores de placa reducida de bajo costo para educación y hobby.",
+    "en": "Series of low-cost single-board computers for education and hobbyists."
+  },
+  "raycast": {
+    "es": "Lanzador extensible y rápido diseñado para mejorar la productividad en macOS.",
+    "en": "Extensible and fast launcher designed to boost productivity on macOS."
+  },
+  "react": {
+    "es": "Biblioteca de JavaScript para construir interfaces de usuario interactivas.",
+    "en": "JavaScript library for building interactive user interfaces."
+  },
+  "reactbootstrap": {
+    "es": "Reemplazo de Bootstrap en JavaScript con componentes de React.",
+    "en": "Bootstrap replacement in JavaScript with React components."
+  },
+  "reacthookform": {
+    "es": "Biblioteca para la gestión de formularios en React con enfoque en el rendimiento.",
+    "en": "Library for form management in React with a focus on performance."
+  },
+  "reactquery": {
+    "es": "Biblioteca potente para la gestión y sincronización del estado del servidor en React.",
+    "en": "Powerful library for managing and syncing server state in React."
+  },
+  "reactrouter": {
+    "es": "Librería estándar para el enrutamiento en aplicaciones de React.",
+    "en": "Standard routing library for React applications."
+  },
+  "redis": {
+    "es": "Almacén de estructura de datos en memoria utilizado como base de datos o caché.",
+    "en": "In-memory data structure store used as a database or cache."
+  },
+  "redhat": {
+    "es": "Proveedor líder mundial de soluciones de software de código abierto empresarial.",
+    "en": "The world's leading provider of enterprise open-source software solutions."
+  },
+  "redux": {
+    "es": "Contenedor de estado predecible para aplicaciones de JavaScript.",
+    "en": "Predictable state container for JavaScript applications."
+  },
+  "remix": {
+    "es": "Framework web centrado en los estándares web para una experiencia de usuario fluida.",
+    "en": "Web framework focused on web standards for a smooth user experience."
+  },
+  "replit": {
+    "es": "Plataforma de desarrollo colaborativo basada en el navegador para múltiples lenguajes.",
+    "en": "Browser-based collaborative development platform for multiple languages."
+  },
+  "revolut": {
+    "es": "Neobanco que ofrece servicios de transferencia de dinero y gestión financiera móvil.",
+    "en": "Neobank offering money transfer and mobile financial management services."
+  },
+  "rider": {
+    "es": "IDE de JetBrains potente y multiplataforma para el desarrollo con .NET.",
+    "en": "Powerful cross-platform JetBrains IDE for .NET development."
+  },
+  "rive": {
+    "es": "Herramienta de diseño y animación en tiempo real para interfaces de usuario.",
+    "en": "Real-time design and animation tool for user interfaces."
+  },
+  "roblox": {
+    "es": "Plataforma de juegos en línea y sistema de creación de videojuegos.",
+    "en": "Online gaming platform and video game creation system."
+  },
+  "ruby": {
+    "es": "Lenguaje de programación dinámico y de código abierto enfocado en la simplicidad.",
+    "en": "Dynamic, open-source programming language focused on simplicity."
+  },
+  "rubyonrails": {
+    "es": "Framework de aplicaciones web escrito en Ruby que favorece la convención sobre configuración.",
+    "en": "Web application framework written in Ruby favoring convention over configuration."
+  },
+  "rust": {
+    "es": "Lenguaje de programación enfocado en la seguridad, velocidad y concurrencia.",
+    "en": "Programming language focused on safety, speed, and concurrency."
+  },
+  "ryanair": {
+    "es": "Aerolínea de bajo costo europea con una amplia red de destinos.",
+    "en": "European low-cost airline with an extensive network of destinations."
+  },
+  "safari": {
+    "es": "Navegador web desarrollado por Apple, conocido por su eficiencia energética.",
+    "en": "Web browser developed by Apple, known for its energy efficiency."
+  },
+  "salesforce": {
+    "es": "Plataforma líder en gestión de relaciones con clientes (CRM) basada en la nube.",
+    "en": "Leading cloud-based customer relationship management (CRM) platform."
+  },
+  "samsung": {
+    "es": "Conglomerado multinacional líder en electrónica y tecnología móvil.",
+    "en": "Leading multinational conglomerate in electronics and mobile technology."
+  },
+  "sass": {
+    "es": "Preprocesador de CSS que añade potencia y elegancia al lenguaje básico.",
+    "en": "CSS preprocessor that adds power and elegance to the basic language."
+  },
+  "scala": {
+    "es": "Lenguaje de programación que combina paradigmas orientados a objetos y funcionales.",
+    "en": "Programming language combining object-oriented and functional paradigms."
+  },
+  "scikitlearn": {
+    "es": "Biblioteca de Python para aprendizaje automático y análisis de datos.",
+    "en": "Python library for machine learning and data analysis."
+  },
+  "selenium": {
+    "es": "Herramienta de código abierto para automatizar pruebas en navegadores web.",
+    "en": "Open-source tool for automating tests in web browsers."
+  },
+  "sentry": {
+    "es": "Plataforma de monitoreo de errores en tiempo real para aplicaciones de software.",
+    "en": "Real-time error monitoring platform for software applications."
+  },
+  "serverless": {
+    "es": "Arquitectura que permite desarrollar aplicaciones sin gestionar infraestructura de servidores.",
+    "en": "Architecture allowing application development without managing server infrastructure."
+  },
+  "shopify": {
+    "es": "Plataforma de comercio electrónico para crear y gestionar tiendas en línea.",
+    "en": "E-commerce platform for creating and managing online stores."
+  },
+  "sketch": {
+    "es": "Herramienta de diseño digital para interfaces de usuario y prototipado en macOS.",
+    "en": "Digital design tool for user interfaces and prototyping on macOS."
+  },
+  "slack": {
+    "es": "Plataforma de comunicación y colaboración para equipos de trabajo.",
+    "en": "Communication and collaboration platform for work teams."
+  },
+  "snowflake": {
+    "es": "Plataforma de almacenamiento y análisis de datos basada en la nube.",
+    "en": "Cloud-based data storage and analytics platform."
+  },
+  "solidity": {
+    "es": "Lenguaje orientado a objetos para implementar contratos inteligentes en Ethereum.",
+    "en": "Object-oriented language for implementing smart contracts on Ethereum."
+  },
+  "sony": {
+    "es": "Multinacional líder en electrónica, videojuegos y entretenimiento.",
+    "en": "Leading multinational in electronics, video games, and entertainment."
+  },
+  "soundcloud": {
+    "es": "Plataforma de distribución de audio en línea para músicos y creadores.",
+    "en": "Online audio distribution platform for musicians and creators."
+  },
+  "spotify": {
+    "es": "Servicio de streaming líder en música, pódcast y contenido digital.",
+    "en": "Leading streaming service for music, podcasts, and digital content."
+  },
+  "spring": {
+    "es": "Framework para el desarrollo de aplicaciones empresariales en Java.",
+    "en": "Framework for enterprise application development in Java."
+  },
+  "sqlite": {
+    "es": "Motor de base de datos SQL ligero, autocontenido y sin servidor.",
+    "en": "Lightweight, self-contained, serverless SQL database engine."
+  },
+  "stackoverflow": {
+    "es": "Comunidad en línea para programadores que buscan aprender y compartir conocimientos.",
+    "en": "Online community for programmers to learn and share knowledge."
+  },
+  "starlink": {
+    "es": "Servicio de internet por satélite de alta velocidad desarrollado por SpaceX.",
+    "en": "High-speed satellite internet service developed by SpaceX."
+  },
+  "steam": {
+    "es": "Plataforma de distribución digital de videojuegos y servicios sociales.",
+    "en": "Digital distribution platform for video games and social services."
+  },
+  "strapi": {
+    "es": "CMS de código abierto sin cabeza basado en JavaScript y totalmente personalizable.",
+    "en": "Open-source, fully customizable headless CMS based on JavaScript."
+  },
+  "stripe": {
+    "es": "Infraestructura de pagos en línea para negocios de internet de todos los tamaños.",
+    "en": "Online payment infrastructure for internet businesses of all sizes."
+  },
+  "styledcomponents": {
+    "es": "Biblioteca para React que utiliza plantillas literales para estilizar componentes.",
+    "en": "Library for React using template literals to style components."
+  },
+  "sublimetext": {
+    "es": "Editor de texto sofisticado para código, marcado y prosa.",
+    "en": "Sophisticated text editor for code, markup, and prose."
+  },
+  "supabase": {
+    "es": "Plataforma de backend de código abierto con base de datos real y autenticación.",
+    "en": "Open-source backend platform with real database and authentication."
+  },
+  "svelte": {
+    "es": "Framework de JavaScript que compila el código a código de máquina altamente eficiente.",
+    "en": "JavaScript framework that compiles code into highly efficient machine code."
+  },
+  "swift": {
+    "es": "Lenguaje de programación potente e intuitivo creado por Apple para sus plataformas.",
+    "en": "Powerful and intuitive programming language created by Apple for its platforms."
+  },
+  "symfony": {
+    "es": "Framework de PHP para proyectos web y un conjunto de componentes reutilizables.",
+    "en": "PHP framework for web projects and a set of reusable components."
+  },
+  "tableau": {
+    "es": "Software líder en visualización de datos e inteligencia de negocios.",
+    "en": "Leading software in data visualization and business intelligence."
+  },
+  "tailwindcss": {
+    "es": "Framework de CSS centrado en utilidades para el diseño rápido de interfaces.",
+    "en": "Utility-first CSS framework for rapid interface design."
+  },
+  "tasmota": {
+    "es": "Firmware de código abierto para dispositivos basados en ESP8266 y ESP32.",
+    "en": "Open-source firmware for ESP8266 and ESP32-based devices."
+  },
+  "telegram": {
+    "es": "Aplicación de mensajería enfocada en la velocidad, seguridad y privacidad.",
+    "en": "Messaging application focused on speed, security, and privacy."
+  },
+  "tensorflow": {
+    "es": "Plataforma de código abierto para el aprendizaje automático y redes neuronales.",
+    "en": "Open-source platform for machine learning and neural networks."
+  },
+  "terraform": {
+    "es": "Herramienta de infraestructura como código para crear y gestionar recursos en la nube.",
+    "en": "Infrastructure as code tool to build and manage cloud resources."
+  },
+  "tesla": {
+    "es": "Empresa líder en vehículos eléctricos, energía solar y soluciones de almacenamiento.",
+    "en": "Leading company in electric vehicles, solar energy, and storage solutions."
+  },
+  "threema": {
+    "es": "Mensajería instantánea segura que prioriza el anonimato y la protección de datos.",
+    "en": "Secure instant messaging prioritizing anonymity and data protection."
+  },
+  "thunderbird": {
+    "es": "Aplicación de correo electrónico gratuita y de código abierto fácil de configurar.",
+    "en": "Free and open-source email application that's easy to set up."
+  },
+  "tiktok": {
+    "es": "Plataforma social para crear y compartir videos cortos y virales.",
+    "en": "Social platform for creating and sharing short, viral videos."
+  },
+  "tldraw": {
+    "es": "Herramienta de dibujo colaborativo y pizarra digital en tiempo real.",
+    "en": "Real-time digital whiteboard and collaborative drawing tool."
+  },
+  "trello": {
+    "es": "Herramienta visual para la gestión de proyectos basada en tableros y tarjetas.",
+    "en": "Visual project management tool based on boards and cards."
+  },
+  "truenas": {
+    "es": "Sistema operativo de almacenamiento conectado en red (NAS) de código abierto.",
+    "en": "Open-source network-attached storage (NAS) operating system."
+  },
+  "trpc": {
+    "es": "Herramienta que permite construir APIs con seguridad de tipos de extremo a extremo.",
+    "en": "Tool allowing the creation of APIs with end-to-end type safety."
+  },
+  "twilio": {
+    "es": "Plataforma de comunicaciones en la nube para integrar mensajes y llamadas en apps.",
+    "en": "Cloud communications platform for integrating messages and calls into apps."
+  },
+  "twitch": {
+    "es": "Plataforma de streaming en vivo líder para videojuegos y contenido creativo.",
+    "en": "Leading live streaming platform for video games and creative content."
+  },
+  "twitter": {
+    "es": "Red social de microblogueo para la difusión de noticias y opiniones en tiempo real.",
+    "en": "Microblogging social network for real-time news and opinion sharing."
+  },
+  "typescript": {
+    "es": "Superconjunto de JavaScript que añade tipos estáticos opcionales al lenguaje.",
+    "en": "JavaScript superset adding optional static types to the language."
+  },
+  "ubuntu": {
+    "es": "Distribución de Linux basada en Debian, popular por su facilidad de uso.",
+    "en": "Debian-based Linux distribution popular for its ease of use."
+  },
+  "udemy": {
+    "es": "Plataforma de aprendizaje global con una amplia variedad de cursos en línea.",
+    "en": "Global learning platform with a wide variety of online courses."
+  },
+  "unity": {
+    "es": "Motor de desarrollo de videojuegos líder para crear experiencias en 2D y 3D.",
+    "en": "Leading game development engine for creating 2D and 3D experiences."
+  },
+  "unrealengine": {
+    "es": "Potente motor gráfico para la creación de juegos y experiencias visuales avanzadas.",
+    "en": "Powerful graphics engine for creating games and advanced visual experiences."
+  },
+  "unraid": {
+    "es": "Sistema operativo para servidores domésticos enfocado en almacenamiento y virtualización.",
+    "en": "Home server operating system focused on storage and virtualization."
+  },
+  "upwork": {
+    "es": "Plataforma global que conecta a empresas con profesionales independientes.",
+    "en": "Global platform connecting businesses with freelancers."
+  },
+  
+  "v8": {
+    "es": "Motor de JavaScript de alto rendimiento de código abierto desarrollado por Google.",
+    "en": "Google's open-source high-performance JavaScript engine."
+  },
+  "vaadin": {
+    "es": "Plataforma de desarrollo web para crear interfaces de usuario modernas en Java.",
+    "en": "Web development platform for building modern user interfaces in Java."
+  },
+  "vapor": {
+    "es": "Framework web para Swift que permite construir aplicaciones de servidor rápidas.",
+    "en": "Web framework for Swift that allows building fast server-side applications."
+  },
+  "vault": {
+    "es": "Herramienta para gestionar secretos y proteger datos sensibles en infraestructuras.",
+    "en": "Tool for managing secrets and protecting sensitive data in infrastructures."
+  },
+  "vercel": {
+    "es": "Plataforma en la nube para desarrolladores de frontend, optimizada para Next.js.",
+    "en": "Cloud platform for frontend developers, optimized for Next.js."
+  },
+  "vim": {
+    "es": "Editor de texto altamente configurable construido para una edición eficiente.",
+    "en": "Highly configurable text editor built for efficient text editing."
+  },
+  "visa": {
+    "es": "Red global de tecnología de pagos líder en transacciones financieras.",
+    "en": "Leading global payment technology network in financial transactions."
+  },
+  "visualstudiocode": {
+    "es": "Editor de código fuente ligero y potente con un ecosistema de extensiones rico.",
+    "en": "Lightweight and powerful source code editor with a rich extension ecosystem."
+  },
+  "vite": {
+    "es": "Herramienta de construcción de frontend rápida que mejora la experiencia de desarrollo.",
+    "en": "Fast frontend build tool that improves the development experience."
+  },
+  "vitest": {
+    "es": "Framework de pruebas unitarias impulsado por Vite, rápido y fácil de usar.",
+    "en": "Unit testing framework powered by Vite, fast and easy to use."
+  },
+  "vmware": {
+    "es": "Líder mundial en infraestructura de nube y tecnología de virtualización.",
+    "en": "World leader in cloud infrastructure and virtualization technology."
+  },
+  "vscode": {
+    "es": "Editor de código fuente extensible y popular desarrollado por Microsoft.",
+    "en": "Extensible and popular source code editor developed by Microsoft."
+  },
+  "vue": {
+    "es": "Framework progresivo de JavaScript para construir interfaces de usuario.",
+    "en": "Progressive JavaScript framework for building user interfaces."
+  },
+  "vuetify": {
+    "es": "Biblioteca de componentes de Material Design para aplicaciones de Vue.js.",
+    "en": "Material Design component library for Vue.js applications."
+  },
+  "vulkan": {
+    "es": "API de gráficos y computación de bajo nivel para un alto rendimiento.",
+    "en": "Low-level graphics and computing API for high performance."
+  },
+  "w3c": {
+    "es": "Comunidad internacional que desarrolla estándares abiertos para la web.",
+    "en": "International community that develops open standards for the web."
+  },
+  "webassembly": {
+    "es": "Formato de instrucciones binarias que permite ejecutar código a alta velocidad en la web.",
+    "en": "Binary instruction format that allows running high-speed code on the web."
+  },
+  "webflow": {
+    "es": "Herramienta de diseño web visual que genera código limpio y semántico.",
+    "en": "Visual web design tool that generates clean, semantic code."
+  },
+  "webpack": {
+    "es": "Empaquetador de módulos estáticos para aplicaciones de JavaScript modernas.",
+    "en": "Static module bundler for modern JavaScript applications."
+  },
+  "webrtc": {
+    "es": "Tecnología de código abierto para la comunicación en tiempo real en la web.",
+    "en": "Open-source technology for real-time communication on the web."
+  },
+  "webstorm": {
+    "es": "IDE potente de JetBrains especializado en el desarrollo de JavaScript.",
+    "en": "Powerful JetBrains IDE specialized in JavaScript development."
+  },
+  "whatsapp": {
+    "es": "Aplicación de mensajería instantánea y llamadas líder en el mundo.",
+    "en": "World's leading instant messaging and calling application."
+  },
+  "windows": {
+    "es": "Sistema operativo de Microsoft utilizado en la mayoría de los ordenadores personales.",
+    "en": "Microsoft's operating system used on the majority of personal computers."
+  },
+  "wireshark": {
+    "es": "Analizador de protocolos de red líder en el mundo para auditoría y diagnóstico.",
+    "en": "World's leading network protocol analyzer for auditing and diagnosis."
+  },
+  "wix": {
+    "es": "Plataforma de desarrollo web basada en la nube para crear sitios visualmente.",
+    "en": "Cloud-based web development platform for creating sites visually."
+  },
+  "wordpress": {
+    "es": "Sistema de gestión de contenidos más popular para crear sitios web y blogs.",
+    "en": "The most popular content management system for creating websites and blogs."
+  },
+  "workday": {
+    "es": "Sistema de gestión empresarial para finanzas, recursos humanos y planificación.",
+    "en": "Enterprise management system for finance, human resources, and planning."
+  },
+  "xamarin": {
+    "es": "Plataforma de código abierto para construir apps nativas con .NET.",
+    "en": "Open-source platform for building native apps with .NET."
+  },
+  "xbox": {
+    "es": "Marca de videojuegos y servicios de entretenimiento propiedad de Microsoft.",
+    "en": "Video game brand and entertainment services owned by Microsoft."
+  },
+  "xcode": {
+    "es": "Entorno de desarrollo integrado de Apple para crear apps en sus plataformas.",
+    "en": "Apple's integrated development environment for creating apps on its platforms."
+  },
+  "xfce": {
+    "es": "Entorno de escritorio ligero y rápido para sistemas operativos tipo Unix.",
+    "en": "Lightweight and fast desktop environment for Unix-like operating systems."
+  },
+  "xiaomi": {
+    "es": "Empresa de tecnología líder en teléfonos inteligentes y dispositivos conectados.",
+    "en": "Leading technology company in smartphones and connected devices."
+  },
+  "yarn": {
+    "es": "Gestor de paquetes para JavaScript que ofrece velocidad y seguridad.",
+    "en": "Package manager for JavaScript offering speed and security."
+  },
+  "youtube": {
+    "es": "Plataforma global para compartir y visualizar videos en línea.",
+    "en": "Global platform for sharing and viewing videos online."
+  },
+  "zabbix": {
+    "es": "Herramienta de monitoreo de código abierto para redes y aplicaciones.",
+    "en": "Open-source monitoring tool for networks and applications."
+  },
+  "zapier": {
+    "es": "Plataforma que permite automatizar flujos de trabajo conectando diferentes apps.",
+    "en": "Platform that allows workflow automation by connecting different apps."
+  },
+  "zeplin": {
+    "es": "Herramienta de colaboración para diseñadores y desarrolladores de interfaces.",
+    "en": "Collaboration tool for interface designers and developers."
+  },
+  "zig": {
+    "es": "Lenguaje de programación de propósito general enfocado en la robustez y optimización.",
+    "en": "General-purpose programming language focused on robustness and optimization."
+  },
+  "zoom": {
+    "es": "Plataforma de videollamadas y comunicación colaborativa para empresas.",
+    "en": "Video calling and collaborative communication platform for businesses."
+  },
+  "zsh": {
+    "es": "Intérprete de comandos extendido para sistemas Unix con potentes funciones.",
+    "en": "Extended command-line interpreter for Unix systems with powerful features."
   }
 }
