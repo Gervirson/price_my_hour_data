@@ -218,11 +218,8 @@
   "bun": {
     "es": "Entorno de ejecución de JavaScript increíblemente rápido con gestor de paquetes.",
     "en": "Incredibly fast JavaScript runtime with an integrated package manager."
-  }
-}
+  },
 
-
-{
   "c": {
     "es": "Lenguaje de programación de bajo nivel, fundamental en la informática moderna.",
     "en": "Low-level programming language, fundamental to modern computing."
