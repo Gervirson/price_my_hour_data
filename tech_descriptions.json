@@ -1,0 +1,142 @@
+{
+  "flutter": {
+    "es": "Framework de Google para crear aplicaciones nativas multiplataforma con un solo código base.",
+    "en": "Google's framework for building multi-platform native applications from a single codebase."
+  },
+  "dart": {
+    "es": "Lenguaje de programación optimizado para interfaces de usuario y alto rendimiento.",
+    "en": "Programming language optimized for client-side development and high-performance apps."
+  },
+  "react": {
+    "es": "Biblioteca de JavaScript para construir interfaces de usuario interactivas y dinámicas.",
+    "en": "JavaScript library for building interactive and dynamic user interfaces."
+  },
+  "react native": {
+    "es": "Framework para desarrollar aplicaciones móviles nativas utilizando JavaScript y React.",
+    "en": "Framework for developing native mobile apps using JavaScript and React."
+  },
+  "next.js": {
+    "es": "Framework de React con soporte para renderizado en el servidor y generación de sitios estáticos.",
+    "en": "React framework with support for server-side rendering and static site generation."
+  },
+  "vue.js": {
+    "es": "Framework progresivo de JavaScript para la creación de interfaces web modernas.",
+    "en": "Progressive JavaScript framework for building modern web interfaces."
+  },
+  "angular": {
+    "es": "Plataforma de desarrollo para construir aplicaciones web robustas y escalables.",
+    "en": "Development platform for building robust and scalable web applications."
+  },
+  "typescript": {
+    "es": "Superconjunto de JavaScript que añade tipado estático para un desarrollo más seguro.",
+    "en": "Superset of JavaScript that adds static typing for more secure and reliable development."
+  },
+  "javascript": {
+    "es": "Lenguaje de programación fundamental para el desarrollo de interactividad en la web.",
+    "en": "Core programming language for building interactivity on the web."
+  },
+  "node.js": {
+    "es": "Entorno de ejecución de JavaScript en el servidor que permite alta concurrencia.",
+    "en": "JavaScript runtime environment for server-side development and high concurrency."
+  },
+  "python": {
+    "es": "Lenguaje versátil ideal para backend, ciencia de datos e inteligencia artificial.",
+    "en": "Versatile programming language ideal for backend, data science, and AI."
+  },
+  "django": {
+    "es": "Framework web de alto nivel de Python que fomenta el desarrollo rápido y limpio.",
+    "en": "High-level Python web framework that encourages rapid and clean development."
+  },
+  "flask": {
+    "es": "Micro-framework ligero de Python para construir aplicaciones web minimalistas.",
+    "en": "Lightweight Python micro-framework for building minimalist web applications."
+  },
+  "fastapi": {
+    "es": "Framework moderno de Python para construir APIs de alto rendimiento.",
+    "en": "Modern Python framework for building high-performance APIs."
+  },
+  "go": {
+    "es": "Lenguaje compilado de Google diseñado para la escalabilidad y servicios en la nube.",
+    "en": "Compiled language by Google designed for scalability and cloud services."
+  },
+  "rust": {
+    "es": "Lenguaje enfocado en la seguridad de memoria y el rendimiento extremo.",
+    "en": "Programming language focused on memory safety and extreme performance."
+  },
+  "php": {
+    "es": "Lenguaje de servidor ampliamente utilizado para el desarrollo de sitios web dinámicos.",
+    "en": "Server-side language widely used for building dynamic websites."
+  },
+  "laravel": {
+    "es": "Framework de PHP elegante diseñado para el desarrollo web moderno.",
+    "en": "Elegant PHP framework designed for modern web development."
+  },
+  "swift": {
+    "es": "Lenguaje potente e intuitivo para el desarrollo de aplicaciones nativas en el ecosistema Apple.",
+    "en": "Powerful and intuitive language for native development across the Apple ecosystem."
+  },
+  "kotlin": {
+    "es": "Lenguaje moderno para Android que prioriza la seguridad y la interoperabilidad con Java.",
+    "en": "Modern language for Android that prioritizes safety and interoperability with Java."
+  },
+  "postgresql": {
+    "es": "Sistema de gestión de bases de datos relacionales potente y de código abierto.",
+    "en": "Powerful, open-source relational database management system."
+  },
+  "mongodb": {
+    "es": "Base de datos NoSQL orientada a documentos para manejar grandes volúmenes de datos.",
+    "en": "Document-oriented NoSQL database for handling large volumes of data."
+  },
+  "mysql": {
+    "es": "Sistema de gestión de bases de datos relacionales popular por su fiabilidad y rapidez.",
+    "en": "Popular relational database system known for reliability and speed."
+  },
+  "firebase": {
+    "es": "Plataforma de Google que ofrece bases de datos en tiempo real y servicios en la nube.",
+    "en": "Google's platform offering real-time databases and cloud-hosted services."
+  },
+  "supabase": {
+    "es": "Alternativa de código abierto a Firebase basada en PostgreSQL con APIs instantáneas.",
+    "en": "Open-source Firebase alternative built on PostgreSQL with instant APIs."
+  },
+  "aws": {
+    "es": "Infraestructura en la nube líder con una amplia gama de servicios escalables.",
+    "en": "Leading cloud infrastructure with a wide range of scalable services."
+  },
+  "google cloud": {
+    "es": "Servicios de computación en la nube integrados con la infraestructura de Google.",
+    "en": "Cloud computing services integrated with Google's core infrastructure."
+  },
+  "azure": {
+    "es": "Plataforma en la nube de Microsoft para la gestión de servicios empresariales.",
+    "en": "Microsoft's cloud platform for managing enterprise-grade services."
+  },
+  "docker": {
+    "es": "Plataforma para contenedores que asegura que la app funcione igual en cualquier entorno.",
+    "en": "Containerization platform ensuring apps run consistently across environments."
+  },
+  "stripe": {
+    "es": "Infraestructura de pagos en línea segura y fácil de integrar.",
+    "en": "Secure and easy-to-integrate online payment infrastructure."
+  },
+  "tailwindcss": {
+    "es": "Framework de CSS enfocado en utilidades para diseños rápidos y personalizados.",
+    "en": "Utility-first CSS framework for rapid and custom interface design."
+  },
+  "bootstrap": {
+    "es": "Toolkit de frontend popular para diseñar sitios web responsivos rápidamente.",
+    "en": "Popular frontend toolkit for quickly designing responsive websites."
+  },
+  "graphql": {
+    "es": "Lenguaje de consulta para APIs que permite obtener exactamente los datos necesarios.",
+    "en": "Query language for APIs that allows fetching exactly the data needed."
+  },
+  "redis": {
+    "es": "Almacén de datos en memoria utilizado para caché y alta velocidad de acceso.",
+    "en": "In-memory data store used for caching and high-speed data access."
+  },
+  "sqlite": {
+    "es": "Motor de base de datos SQL ligero contenido en una sola biblioteca de C.",
+    "en": "Lightweight SQL database engine contained within a single C library."
+  }
+}
